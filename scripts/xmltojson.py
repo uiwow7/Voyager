@@ -153,12 +153,12 @@ print(sortedCarddata)
 setno = 0
 # Convert newly sorted data into a string to write to JSON file
 for set in sortedCarddata:
-    data += f'"{set.keys()[0]}":{{"name":"{SETS[set.keys()[0]][0]}","code":"{set.keys()[0]}",releaseDate:"{SETS[set.keys()[0]][1]}","release_number":"{setno}","border":"black","type":"expert","booster":[],"mkm_name":"{SETS[set.keys()[0]][0]}","mkm_number":"{setno}","cards":['
-    for card in set.values()[0]:
-        data += f'"convertedManaCost":"{card["cmc"]}","colors":[{SlistFormat(card["colors"])}], "colorIdentity":[{SlistFormat(card["colorident"])}], "id":"{card["name"]}_{set.keys()[0].upper()}","imageName":"{card["name"]}","layout":"{card["layout"]}","legalities":[{{"format":"voyager","legality":"legal"}}],"manaCost":"{card["cost"]}",'
+    data += f'"{list(set.keys())[0]}":{{"name":"{SETS[list(set.keys())[0]][0]}","code":"{list(set.keys())[0]}",releaseDate:"{SETS[list(set.keys())[0]][1]}","release_number":"{setno}","border":"black","type":"expert","booster":[],"mkm_name":"{SETS[list(set.keys())[0]][0]}","mkm_number":"{setno}","cards":['
+    for card in list(set.values())[0]:
+        data += f'"convertedManaCost":"{card["cmc"]}","colors":[{SlistFormat(card["colors"])}], "colorIdentity":[{SlistFormat(card["colorident"])}], "id":"{card["name"]}_{list(set.keys())[0].upper()}","imageName":"{card["name"]}","layout":"{card["layout"]}","legalities":[{{"format":"voyager","legality":"legal"}}],"manaCost":"{card["cost"]}",'
         if "pt" in card:
             data += f'"power":"{card["pt"].split("/")[0]}",'
-        data += f'' # TODO, figure out related cards
+        data += f'"relatedCards":{{"spellbook":[{LlistFormat(card["related"])}]}},'
         cardtypesplit = card["cardtype"].split(" ")
         cardtypesplit.remove("—")
         data += f'"subtypes":[{LlistFormat(card["type"].split("— ")[1].split(" "))}],"text":"{card["text"]}","toughness":"{card["pt"].split["/"][1]}","type":"{card["type"]}","types":[{LlistFormat(cardtypesplit)}]}},'
