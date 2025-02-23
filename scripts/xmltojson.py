@@ -155,7 +155,7 @@ outdict = {}
 for set in sortedCarddata:
     cards = []
     for card in list(set.values())[0]:
-        carddict = {"convertedManaCost": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"], "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"]}
+        carddict = {"artist": "", "convertedManaCost": card["cmc"], "faceConvertedManaCost": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"], "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"]}
         if "pt" in card:
             carddict["power"] = card["pt"].split("/")[0]
             carddict["toughness"] = card["pt"].split("/")[1]
@@ -174,7 +174,7 @@ for set in sortedCarddata:
         # if "pt" in card: data += f'"toughness":"{card["pt"].split("/")[1]}",'
         # data += f'"type":"{card["type"]}","types":[{LlistFormat(cardtypesplit)}]}},'
         cards.append(carddict)
-    setdict = {"name": SETS[list(set.keys())[0]][0], "code": list(set.keys())[0], "releaseDate": SETS[list(set.keys())[0]][1], "release_number": setno, "border": "black", "type": "expert", "booster": [], "mkm_name": SETS[list(set.keys())[0]][0], "mkm_number": setno, "cards": cards}
+    setdict = {"name": SETS[list(set.keys())[0]][0], "code": list(set.keys())[0], "gathererCode": list(set.keys())[0], "magicCardsInfoCode": list(set.keys())[0], "releaseDate": SETS[list(set.keys())[0]][1], "release_number": setno, "border": "black", "type": "expert", "booster": [], "mkm_name": SETS[list(set.keys())[0]][0], "mkm_number": setno, "cards": cards}
     outdict[list(set.keys())[0]] = setdict
     setno += 1
     # data += f'"{list(set.keys())[0]}":{{"name":"{SETS[list(set.keys())[0]][0]}","code":"{list(set.keys())[0]}","releaseDate":"{SETS[list(set.keys())[0]][1]}","release_number":"{setno}","border":"black","type":"expert","booster":[],"mkm_name":"{SETS[list(set.keys())[0]][0]}","mkm_number":"{setno}","cards":['
