@@ -123,7 +123,12 @@ for card in root[1]:
                 elif property.tag == "cmc":
                     carddict["cmc"] = property.text
                 elif property.tag == "colors":
-                    carddict["colors"] = list(str(property.text))
+                    print("c", property.text)
+                    if str(property.text) == "None": 
+                        carddict["colors"] = []
+                    else: 
+                        carddict["colors"] = list(str(property.text))
+                    print(carddict["colors"])
                 elif property.tag == "layout":
                     carddict["layout"] = property.text
                 elif property.tag == "type":
@@ -162,7 +167,7 @@ for set in sortedCarddata:
         if "pt" in card:
             carddict["power"] = card["pt"].split("/")[0]
             carddict["toughness"] = card["pt"].split("/")[1]
-        print("dataing", card)
+        # print("dataing", card)
         # data += f'{{"convertedManaCost":"{card["cmc"]}","colors":[{SlistFormat(card["colors"])}], "colorIdentity":[{SlistFormat(card["colors"])}], "id":"{card["name"]}_{list(set.keys())[0].upper()}","imageName":"{card["name"]}","layout":"{card["layout"]}","legalities":[{{"format":"voyager","legality":"legal"}}],"manaCost":"{card["cost"]}",'
         # if "pt" in card:
         #     data += f'"power":"{card["pt"].split("/")[0]}",'
