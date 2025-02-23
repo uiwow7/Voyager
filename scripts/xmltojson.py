@@ -133,7 +133,7 @@ for card in root[1]:
                 elif property.tag == "pt":
                     carddict["pt"] = property.text.replace("★", "*")
     # print(carddict)
-    carddata.append(carddict)
+    if not carddict["set"] == "EXPT" or carddict["set"] == "VMN": carddata.append(carddict)
     
 data = '{"meta":{},"data":{'
 sortedCarddata = []
@@ -153,13 +153,16 @@ setno = 0
 outdict = {}
 # Convert newly sorted data into a string to write to JSON file
 for set in sortedCarddata:
+    print(list(set.keys())[0])
+    # if list(set.keys())[0] == 'VMN' or 'EXPT':
+    #     continue
     cards = []
     for card in list(set.values())[0]:
         carddict = {"artist": "", "convertedManaCost": card["cmc"], "faceConvertedManaCost": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"], "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"]}
         if "pt" in card:
             carddict["power"] = card["pt"].split("/")[0]
             carddict["toughness"] = card["pt"].split("/")[1]
-        # print("dataing", card)
+        print("dataing", card)
         # data += f'{{"convertedManaCost":"{card["cmc"]}","colors":[{SlistFormat(card["colors"])}], "colorIdentity":[{SlistFormat(card["colors"])}], "id":"{card["name"]}_{list(set.keys())[0].upper()}","imageName":"{card["name"]}","layout":"{card["layout"]}","legalities":[{{"format":"voyager","legality":"legal"}}],"manaCost":"{card["cost"]}",'
         # if "pt" in card:
         #     data += f'"power":"{card["pt"].split("/")[0]}",'
