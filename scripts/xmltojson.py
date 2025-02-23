@@ -149,7 +149,7 @@ for set in SETS:
 
 # print(sortedCarddata)
 
-setno = 0
+setno = 1
 outdict = {}
 # Convert newly sorted data into a string to write to JSON file
 for set in sortedCarddata:
