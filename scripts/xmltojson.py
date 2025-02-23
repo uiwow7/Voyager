@@ -133,7 +133,7 @@ for card in root[1]:
                 elif property.tag == "pt":
                     carddict["pt"] = property.text.replace("★", "*")
     # print(carddict)
-    if not carddict["set"] == "EXPT" or carddict["set"] == "VMN": carddata.append(carddict)
+    if not "I" in carddict["colors"]: carddata.append(carddict)
     
 data = '{"meta":{},"data":{'
 sortedCarddata = []
