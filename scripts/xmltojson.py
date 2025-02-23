@@ -176,6 +176,7 @@ for set in sortedCarddata:
         cards.append(carddict)
     setdict = {"name": SETS[list(set.keys())[0]][0], "code": list(set.keys())[0], "releaseDate": SETS[list(set.keys())[0]][1], "release_number": setno, "border": "black", "type": "expert", "booster": [], "mkm_name": SETS[list(set.keys())[0]][0], "mkm_number": setno, "cards": cards}
     outdict[list(set.keys())[0]] = setdict
+    setno += 1
     # data += f'"{list(set.keys())[0]}":{{"name":"{SETS[list(set.keys())[0]][0]}","code":"{list(set.keys())[0]}","releaseDate":"{SETS[list(set.keys())[0]][1]}","release_number":"{setno}","border":"black","type":"expert","booster":[],"mkm_name":"{SETS[list(set.keys())[0]][0]}","mkm_number":"{setno}","cards":['
 #     data = data.rstrip(",")
 #     data += "]},"
