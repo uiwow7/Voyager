@@ -198,7 +198,7 @@ outdict = {"meta": dict(), "data": outdict}
 # print(outdict)
 
 with open("AllCards.json", "w", encoding = "utf-8") as f:
-    f.write(json.dumps(outdict))
+    f.write(json.dumps(outdict, indent=2))
 
 
 
