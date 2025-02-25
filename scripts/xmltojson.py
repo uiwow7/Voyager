@@ -83,7 +83,7 @@ def LlistFormat(list_: list):
 
 
 SETS = {
-    'VMN': ['Vinimroth Eternities', "2025-02-20"],
+    'VNM': ['Vinimroth Eternities', "2025-02-20"],
     'EXPT': ['Silver Core Set', "2025-02-20"],
     'PTN': ['Port Noon', "2025-02-20"],
     'ITD': ['Itera: Into the Dream', "2025-02-20"],
