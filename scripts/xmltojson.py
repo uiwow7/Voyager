@@ -165,7 +165,7 @@ for set in sortedCarddata:
     #     continue
     cards = []
     for card in list(set.values())[0]:
-        carddict = {"artist": "", "manaValue": card["cmc"], "faceManaValue": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"].lower(), "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"]}
+        carddict = {"artist": "", "manaValue": card["cmc"], "faceManaValue": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"].lower(), "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"], "number": card["num"]}
         if "pt" in card:
             carddict["power"] = card["pt"].split("/")[0]
             carddict["toughness"] = card["pt"].split("/")[1]
