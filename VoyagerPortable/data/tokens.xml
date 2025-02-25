@@ -289,154 +289,79 @@
  <reverse-related>To be Forgotten in a Dream</reverse-related>
 </card>
 <card>
- <name>Cat Token VNM</name>
- <color>W</color>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Enchantment Creature — Cat</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="VNM202" rarity="token">tokens</set>
- <reverse-related>Avlod Bulwark</reverse-related>
- <reverse-related>Gateway Guardian</reverse-related>
- <reverse-related>Giant's Blade</reverse-related>
- <reverse-related>Outlands Riftbearer</reverse-related>
- <reverse-related>Rift Tender</reverse-related>
- <reverse-related>Subdued Rift</reverse-related>
-</card>
-<card>
- <name>Drake Token VNM 2</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Drake</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="VNM198" rarity="bonus">tokens</set>
- <reverse-related>Breach of Protection</reverse-related>
- <reverse-related>Drake Rider</reverse-related>
-</card>
-<card>
- <name>green and silver Icon VNM</name>
- <color>I</color>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>X/X</pt>
- <type>Token Enchantment Creature — Icon</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="VNM337" rarity="token">tokens</set>
- <reverse-related>Impunity of Souls</reverse-related>
- <reverse-related>Splendid Genesis</reverse-related>
-</card>
-<card>
- <name>colorless Fractal Reflection 11PVR</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Fractal Reflection</type>
- <tablerow>2</tablerow>
- <text>{T}: Add {G} or {U}.</text>
- <token>1</token>
- <set num="PVR316" rarity="bonus">tokens</set>
- <reverse-related count="2">Anivir, Forgotten Savior</reverse-related>
-</card>
-<card>
- <name>white Human 11PVR</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Human</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="PVR318" rarity="bonus">tokens</set>
- <reverse-related>Asset Manager</reverse-related>
- <reverse-related count="2">Consecrated Farmland</reverse-related>
- <reverse-related count="2">Cruelean, Ruler of None</reverse-related>
- <reverse-related count="X">Edravir's Lynchpin</reverse-related>
- <reverse-related>Fertile Progengon</reverse-related>
- <reverse-related>Settle Inhospitable Lands</reverse-related>
- <reverse-related>Stick Retriever</reverse-related>
- <reverse-related count="2">Tithing Protocol</reverse-related>
- <reverse-related count="5">Urban Majesty</reverse-related>
-</card>
-<card>
- <name>Treasure PVR</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Artifact — Treasure</type>
- <tablerow>1</tablerow>
- <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
- <token>1</token>
- <set num="PVR313" rarity="bonus">tokens</set>
- <reverse-related>Burning Devastatasaur</reverse-related>
- <reverse-related>Felygon Sentinel</reverse-related>
- <reverse-related>Heirloom of the Obsolete</reverse-related>
- <reverse-related>Nurbs, the Wild King</reverse-related>
- <reverse-related>Spoils of Scarcity</reverse-related>
- <reverse-related>Submerged Titangill</reverse-related>
-</card>
-<card>
- <name>black Horror 22PVR</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Horror</type>
- <tablerow>2</tablerow>
- <text>Prowess</text>
- <token>1</token>
- <set num="PVR317" rarity="bonus">tokens</set>
- <reverse-related>Conquex, Broken Mandate</reverse-related>
- <reverse-related>Prawth, Planar Decimator</reverse-related>
- <reverse-related>Senescence Vessel</reverse-related>
-</card>
-<card>
- <name>Nilvoid PVR</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Land</type>
- <tablerow>0</tablerow>
- <text>Hexproof {T}: Add one mana of any color.</text>
- <token>1</token>
- <set num="PVR319" rarity="bonus">tokens</set>
- <reverse-related>Dynotopic Stampede</reverse-related>
-</card>
-<card>
- <name>colorless Fractal Horror 00PVR</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>0/0</pt>
- <type>Token Creature — Fractal Horror</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="PVR315" rarity="bonus">tokens</set>
- <reverse-related count="6">Epoch Ending</reverse-related>
- <reverse-related>Subsurface Spawning</reverse-related>
-</card>
-<card>
- <name>green Dinosaur 33PVR</name>
+ <name>Beast Token WAW</name>
  <color>G</color>
  <manacost></manacost>
  <cmc>0</cmc>
  <pt>3/3</pt>
- <type>Token Creature — Dinosaur</type>
+ <type>Token Creature — Beast</type>
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
- <set num="PVR314" rarity="bonus">tokens</set>
- <reverse-related>Lévy Paths</reverse-related>
- <reverse-related>Urwrapir Matriarch</reverse-related>
+ <set num="WAW114" rarity="token">tokens</set>
+ <reverse-related>Anything and Everything</reverse-related>
+ <reverse-related>Borderholt Herdcaller</reverse-related>
+ <reverse-related>Deepholt Encounter</reverse-related>
+ <reverse-related>Destructive Desire</reverse-related>
+ <reverse-related>Ilcan Entrancer</reverse-related>
+ <reverse-related>New Tensuo Calmkeeper</reverse-related>
+ <reverse-related>Numberless Procession</reverse-related>
+ <reverse-related>Worldsoul Ambassador</reverse-related>
+</card>
+<card>
+ <name>Story of a Dead Plane WAW</name>
+ <color>W</color>
+ <color>U</color>
+ <color>B</color>
+ <color>R</color>
+ <color>G</color>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>This enchantment is all colors. Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.”</text>
+ <token>1</token>
+ <set num="WAW27" rarity="token">tokens</set>
+ <reverse-related>Dhere, Preserver of Memories</reverse-related>
+</card>
+<card>
+ <name>Memory of Home WAW</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can't block, where X is its mana value. Do this only once on each of your turns.</text>
+ <token>1</token>
+ <set num="WAW12" rarity="token">tokens</set>
+ <reverse-related>Norr, Ajha's Lieutenant</reverse-related>
+</card>
+<card>
+ <name>Dragon Token WAW</name>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>5/5</pt>
+ <type>Token Creature — Dragon</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="WAW8" rarity="token">tokens</set>
+ <reverse-related>Starstruck Skitter</reverse-related>
+</card>
+<card>
+ <name>Demon Token WAW</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>4/4</pt>
+ <type>Token Creature — Demon</type>
+ <tablerow>2</tablerow>
+ <text>Flying This creature can't block.</text>
+ <token>1</token>
+ <set num="WAW125" rarity="token">tokens</set>
+ <reverse-related>Tenuous Partners</reverse-related>
 </card>
 <card>
  <name>colorless Cleric 01PTN</name>
@@ -559,6 +484,156 @@
  <reverse-related count="X">The Museum of Worms</reverse-related>
 </card>
 <card>
+ <name>colorless Fractal Reflection 11PVR</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Fractal Reflection</type>
+ <tablerow>2</tablerow>
+ <text>{T}: Add {G} or {U}.</text>
+ <token>1</token>
+ <set num="PVR316" rarity="bonus">tokens</set>
+ <reverse-related count="2">Anivir, Forgotten Savior</reverse-related>
+</card>
+<card>
+ <name>white Human 11PVR</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Human</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="PVR318" rarity="bonus">tokens</set>
+ <reverse-related>Asset Manager</reverse-related>
+ <reverse-related count="2">Consecrated Farmland</reverse-related>
+ <reverse-related count="2">Cruelean, Ruler of None</reverse-related>
+ <reverse-related count="X">Edravir's Lynchpin</reverse-related>
+ <reverse-related>Fertile Progengon</reverse-related>
+ <reverse-related>Settle Inhospitable Lands</reverse-related>
+ <reverse-related>Stick Retriever</reverse-related>
+ <reverse-related count="2">Tithing Protocol</reverse-related>
+ <reverse-related count="5">Urban Majesty</reverse-related>
+</card>
+<card>
+ <name>Treasure PVR</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Artifact — Treasure</type>
+ <tablerow>1</tablerow>
+ <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+ <set num="PVR313" rarity="bonus">tokens</set>
+ <reverse-related>Burning Devastatasaur</reverse-related>
+ <reverse-related>Felygon Sentinel</reverse-related>
+ <reverse-related>Heirloom of the Obsolete</reverse-related>
+ <reverse-related>Nurbs, the Wild King</reverse-related>
+ <reverse-related>Spoils of Scarcity</reverse-related>
+ <reverse-related>Submerged Titangill</reverse-related>
+</card>
+<card>
+ <name>black Horror 22PVR</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Horror</type>
+ <tablerow>2</tablerow>
+ <text>Prowess</text>
+ <token>1</token>
+ <set num="PVR317" rarity="bonus">tokens</set>
+ <reverse-related>Conquex, Broken Mandate</reverse-related>
+ <reverse-related>Prawth, Planar Decimator</reverse-related>
+ <reverse-related>Senescence Vessel</reverse-related>
+</card>
+<card>
+ <name>Nilvoid PVR</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Land</type>
+ <tablerow>0</tablerow>
+ <text>Hexproof {T}: Add one mana of any color.</text>
+ <token>1</token>
+ <set num="PVR319" rarity="bonus">tokens</set>
+ <reverse-related>Dynotopic Stampede</reverse-related>
+</card>
+<card>
+ <name>colorless Fractal Horror 00PVR</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>0/0</pt>
+ <type>Token Creature — Fractal Horror</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="PVR315" rarity="bonus">tokens</set>
+ <reverse-related count="6">Epoch Ending</reverse-related>
+ <reverse-related>Subsurface Spawning</reverse-related>
+</card>
+<card>
+ <name>green Dinosaur 33PVR</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/3</pt>
+ <type>Token Creature — Dinosaur</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="PVR314" rarity="bonus">tokens</set>
+ <reverse-related>Lévy Paths</reverse-related>
+ <reverse-related>Urwrapir Matriarch</reverse-related>
+</card>
+<card>
+ <name>Cat Token VNM</name>
+ <color>W</color>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Enchantment Creature — Cat</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="VNM202" rarity="token">tokens</set>
+ <reverse-related>Avlod Bulwark</reverse-related>
+ <reverse-related>Gateway Guardian</reverse-related>
+ <reverse-related>Giant's Blade</reverse-related>
+ <reverse-related>Outlands Riftbearer</reverse-related>
+ <reverse-related>Rift Tender</reverse-related>
+ <reverse-related>Subdued Rift</reverse-related>
+</card>
+<card>
+ <name>Drake Token VNM 2</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Drake</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="VNM198" rarity="bonus">tokens</set>
+ <reverse-related>Breach of Protection</reverse-related>
+ <reverse-related>Drake Rider</reverse-related>
+</card>
+<card>
+ <name>green and silver Icon VNM</name>
+ <color>I</color>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>X/X</pt>
+ <type>Token Enchantment Creature — Icon</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="VNM337" rarity="token">tokens</set>
+ <reverse-related>Impunity of Souls</reverse-related>
+ <reverse-related>Splendid Genesis</reverse-related>
+</card>
+<card>
  <name>colorless God Horror 44PTN</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -569,6 +644,18 @@
  <token>1</token>
  <set num="PTN272" rarity="token">tokens</set>
  <reverse-related>Cleric</reverse-related>
+</card>
+<card>
+ <name>Ageless Caretaker WAW</name>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Demigod Cleric</type>
+ <tablerow>2</tablerow>
+ <text>During your turn, this creature has indestructible and vigilance. This creature gets +1/+0 for each other creature you control. *(This token's mana cost is {4}{W}.)*</text>
+ <token>1</token>
+ <set num="WAW226" rarity="token">tokens</set>
 </card>
 <card>
  <name>Ancient Forerunner ITD ITD</name>
@@ -594,6 +681,18 @@
  <set num="PVR312" rarity="bonus">tokens</set>
 </card>
 <card>
+ <name>Cloudeater Drake WAW</name>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Drake</type>
+ <tablerow>2</tablerow>
+ <text>Flying When this creature enters, draw a card. *(This token's mana cost is {2}{U}.)*</text>
+ <token>1</token>
+ <set num="WAW121" rarity="token">tokens</set>
+</card>
+<card>
  <name>Cloudscape Observer ITD ITD</name>
  <manacost>6</manacost>
  <cmc>6</cmc>
@@ -614,6 +713,17 @@
  <text>{T}: Add {C} {T}: Add one mana of any color. Activate only if you control a creature with power 4 or greater. </text>
  <token>1</token>
  <set num="ITD199" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Copy WAW</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token</type>
+ <tablerow>1</tablerow>
+ <text>*(This token can be used to represent a token that's a copy of a permanent.)*</text>
+ <token>1</token>
+ <set num="WAW122" rarity="token">tokens</set>
 </card>
 <card>
  <name>Cut from Void VNM</name>
@@ -692,6 +802,19 @@
  <set num="VNM322" rarity="bonus">tokens</set>
 </card>
 <card>
+ <name>Flowering Germinus WAW</name>
+ <color>G</color>
+ <color>W</color>
+ <manacost>1G/WG/W</manacost>
+ <cmc>3</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder </type>
+ <tablerow>2</tablerow>
+ <text>When Flowering Germinus enters, creatures you control with base power 1 or less get +1/+1 and gain vigilance until end of turn. *(This token's mana cost is {1}{G/W}{G/W}.)*</text>
+ <token>1</token>
+ <set num="WAW132" rarity="token">tokens</set>
+</card>
+<card>
  <name>Forest</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -721,6 +844,18 @@
  <text>Vigilance Whenever an opponent casts a noncreature spell with mana value less than this creature's power, draw a card.</text>
  <token>1</token>
  <set num="ITD194" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Gilded Ancient WAW</name>
+ <color>G</color>
+ <manacost>5G</manacost>
+ <cmc>6</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Cat</type>
+ <tablerow>2</tablerow>
+ <text>Vigilance When this creature enters, target creature gets +X/+X until end of turn, where X is the number of creatures you control. *(This token's mana cost is {5}{G}.)*</text>
+ <token>1</token>
+ <set num="WAW133" rarity="token">tokens</set>
 </card>
 <card>
  <name>Harsh Reprise VNM</name>
@@ -784,6 +919,18 @@
  <set num="EXPT50" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Ilcan Keyseeker WAW</name>
+ <color>W</color>
+ <manacost>1W</manacost>
+ <cmc>2</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Human Wizard</type>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, untap target creature and put a +1/+1 counter on it. If that creature is a Wonder, put an additional +1/+1 counter on it. *(This token's mana cost is {1}{W}.)*</text>
+ <token>1</token>
+ <set num="WAW137" rarity="token">tokens</set>
+</card>
+<card>
  <name>In the Moment VNM</name>
  <color>R</color>
  <manacost>1R</manacost>
@@ -803,6 +950,30 @@
  <text>*({T}: Add {U}.)*</text>
  <token>1</token>
  <set num="VNM206" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>Kindly Skywinder WAW</name>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Drake</type>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, target creature you control gains flying until end of turn. *(This token's mana cost is {3}{W}.)*</text>
+ <token>1</token>
+ <set num="WAW140" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Lakebed Wrudge WAW</name>
+ <color>U</color>
+ <manacost>1U</manacost>
+ <cmc>2</cmc>
+ <pt>1/1</pt>
+ <type>Creature — Wonder Fish</type>
+ <tablerow>2</tablerow>
+ <text>You may look at the top card of your library any time. As long as you control another permanent named Lakebed Wrudge, you may play lands and cast spells from the top of your library. {T}: Mill a card. *(This token's mana cost is {1}{U}.)*</text>
+ <token>1</token>
+ <set num="WAW87" rarity="token">tokens</set>
 </card>
 <card>
  <name>Lammasu, Dream-Stilled ITD ITD</name>
@@ -870,6 +1041,18 @@
  <set num="VNM188" rarity="bonus">tokens</set>
 </card>
 <card>
+ <name>Music of the Deepholt WAW</name>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <pt>1/1</pt>
+ <type>Token Enchantment Creature — Wonder</type>
+ <tablerow>2</tablerow>
+ <text>Whenever you cast a noncreature spell, target creature you control gets +1/+1 until end of turn. *(This token's mana cost is {2}{U}.)*</text>
+ <token>1</token>
+ <set num="WAW145" rarity="token">tokens</set>
+</card>
+<card>
  <name>New-Life Acolyte ITD ITD</name>
  <manacost>6</manacost>
  <cmc>6</cmc>
@@ -879,6 +1062,54 @@
  <text>Artifact spells with mana value 2 or greater you cast cost {1} less to cast. </text>
  <token>1</token>
  <set num="ITD197" rarity="token">tokens</set>
+</card>
+<card>
+ <name>New Tensuo Clergy WAW</name>
+ <color>B</color>
+ <manacost>2B</manacost>
+ <cmc>3</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Elf Cleric</type>
+ <tablerow>2</tablerow>
+ <text>Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life. *(This token's mana cost is {2}{B}.)*</text>
+ <token>1</token>
+ <set num="WAW147" rarity="token">tokens</set>
+</card>
+<card>
+ <name>New Tensuo Luminary WAW</name>
+ <color>W</color>
+ <manacost>W</manacost>
+ <cmc>1</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Elf Knight</type>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature with base power 1 or less enters under your control, put a +1/+1 counter on this creature. This ability triggers only once each turn. *(This token's mana value is {W}.)*</text>
+ <token>1</token>
+ <set num="WAW54" rarity="token">tokens</set>
+</card>
+<card>
+ <name>New Tensuo Physician WAW</name>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Elf Druid</type>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, return target card from your graveyard to your hand. If it was a land or multicolored card, you gain 5 life. *(This token's mana cost is {4}{G}.)*</text>
+ <token>1</token>
+ <set num="WAW251" rarity="token">tokens</set>
+</card>
+<card>
+ <name>New Tensuo Vanguard WAW</name>
+ <color>W</color>
+ <manacost>4W</manacost>
+ <cmc>5</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Elf Knight</type>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, creatures you control get +1/+0 and gain first strike until end of turn. *(This token's mana cost is {4}{W}.)*</text>
+ <token>1</token>
+ <set num="WAW148" rarity="token">tokens</set>
 </card>
 <card>
  <name>Pathbound VNM</name>
@@ -947,6 +1178,18 @@
  <set num="AKT241" rarity="bonus">tokens</set>
 </card>
 <card>
+ <name>Redefinition WAW</name>
+ <color>U</color>
+ <manacost>3U</manacost>
+ <cmc>4</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Jellyfish</type>
+ <tablerow>2</tablerow>
+ <text>When this creature enters, up to one target creature's power and toughness each become equal to this creature's power and toughness until this creature leaves the battlefield. *(This token's mana cost is {3}{U}.)*</text>
+ <token>1</token>
+ <set num="WAW206" rarity="token">tokens</set>
+</card>
+<card>
  <name>Reformed Rift VNM</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -977,6 +1220,30 @@
  <text>Before the game starts, place your sanctum here face down. Your sanctum consists of up to seven unique cards that can start from the sanctum. You may sideboard cards in the sanctum, as long as your main deck and sanctum meet minimum deckbuilding requirements.</text>
  <token>1</token>
  <set num="VNM250" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>Spirit Token WAW</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>★/★</pt>
+ <type>Token Creature — Spirit</type>
+ <tablerow>2</tablerow>
+ <text>This creature can't block.</text>
+ <token>1</token>
+ <set num="WAW23" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Stardust Haze WAW</name>
+ <color>W</color>
+ <manacost>3W</manacost>
+ <cmc>4</cmc>
+ <pt>1/1</pt>
+ <type>Token Enchantment Creature — Wonder</type>
+ <tablerow>2</tablerow>
+ <text>Flash When this enchantment enters, exile target nonland permanent you don't control until this enchantment leaves the battlefield. *(This token's mana cost is {3}{W}.)*</text>
+ <token>1</token>
+ <set num="WAW211" rarity="token">tokens</set>
 </card>
 <card>
  <name>Steady Growth VNM</name>
@@ -1023,6 +1290,18 @@
  <set num="VNM186" rarity="bonus">tokens</set>
 </card>
 <card>
+ <name>Vrep WAW</name>
+ <color>G</color>
+ <manacost>4G</manacost>
+ <cmc>5</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder Salamander</type>
+ <tablerow>2</tablerow>
+ <text>This creature can't be blocked by more than one creature. Augmented — At the beginning of combat on your turn, if you've spent {W}{U}{B}{R}{G} to cast spells this turn, put a number of +1/+1 counters on target creature equal to this creature's power. *(This token's mana cost is {4}{G}.)*</text>
+ <token>1</token>
+ <set num="WAW263" rarity="token">tokens</set>
+</card>
+<card>
  <name>Warped Exploration VNM</name>
  <manacost>2</manacost>
  <cmc>2</cmc>
@@ -1044,6 +1323,40 @@
  <text></text>
  <token>1</token>
  <set num="AKT246" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>Wonder Archon Token WAW</name>
+ <color>W</color>
+ <color>U</color>
+ <color>B</color>
+ <color>R</color>
+ <color>G</color>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>5/5</pt>
+ <type>Token Creature — Wonder Archon</type>
+ <tablerow>2</tablerow>
+ <text>This creature is all colors.</text>
+ <token>1</token>
+ <set num="WAW37" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Wonder Token WAW</name>
+ <color>W</color>
+ <color>U</color>
+ <color>B</color>
+ <color>R</color>
+ <color>G</color>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wonder </type>
+ <tablerow>2</tablerow>
+ <text>This creature is all colors.</text>
+ <token>1</token>
+ <set num="WAW172" rarity="token">tokens</set>
 </card>
 </cards>
 </cockatrice_carddatabase>

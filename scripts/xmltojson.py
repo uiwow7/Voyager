@@ -93,7 +93,7 @@ SETS = {
 }
 
 # Parse XML using ElementTree
-tree = XET.parse("cardsources/cards.xml")
+tree = XET.parse("tricedata/cards.xml")
 root = tree.getroot()
 carddata = []
 
@@ -138,7 +138,7 @@ for card in root[1]:
                 elif property.tag == "pt":
                     carddict["pt"] = property.text.replace("★", "*")
     # print(carddict)
-    if not "I" in carddict["colors"]: carddata.append(carddict)
+    if not "I" in carddict["colors"] and "{I}" not in carddict["text"]: carddata.append(carddict)
     
 data = '{"meta":{},"data":{'
 sortedCarddata = []
@@ -163,7 +163,7 @@ for set in sortedCarddata:
     #     continue
     cards = []
     for card in list(set.values())[0]:
-        carddict = {"artist": "", "convertedManaCost": card["cmc"], "faceConvertedManaCost": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"], "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"]}
+        carddict = {"artist": "", "convertedManaCost": card["cmc"], "faceConvertedManaCost": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"].lower(), "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"]}
         if "pt" in card:
             carddict["power"] = card["pt"].split("/")[0]
             carddict["toughness"] = card["pt"].split("/")[1]
