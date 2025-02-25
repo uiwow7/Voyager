@@ -197,7 +197,7 @@ outdict = {"meta": dict(), "data": outdict}
 
 # print(outdict)
 
-with open("AllCards.json", "w", encoding = "utf-8-sig") as f:
+with open("AllCards.json", "w", encoding = "utf-8") as f:
     f.write(json.dumps(outdict))
 
 
@@ -225,3 +225,9 @@ with open("AllCards.json", "w", encoding = "utf-8-sig") as f:
 #     "Creature"
 #     ]
 # }
+
+with open("AllCards.json", "r", encoding = "utf-8") as f:
+    if f.read()[0] == "{":
+        print("YAYAYAYAY")
+    else:
+        print("adfadsf")
