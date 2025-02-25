@@ -165,7 +165,7 @@ for set in sortedCarddata:
     #     continue
     cards = []
     for card in list(set.values())[0]:
-        carddict = {"artist": "", "manaValue": card["cmc"], "faceManaValue": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"].lower(), "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"], "number": card["num"]}
+        carddict = {"artist": "", "manaValue": card["cmc"], "faceManaValue": card["cmc"], "colors": list(card["colors"]), "colorIdentity": list(card["colors"]), "faceConvertedManaCost": card["cmc"], "id": card["name"] + "_" + list(set.keys())[0].upper(), "imageName": card["name"].lower(), "layout": card["layout"], "legalities": {"format": "voyager", "legality": "legal"}, "manaCost": card["cost"], "multiverseid": 0, "relatedCards": {"spellbook": card["related"]}, "text": card["text"], "type": card["type"], "number": card["num"], "type": card["type"]}
         if "pt" in card:
             carddict["power"] = card["pt"].split("/")[0]
             carddict["toughness"] = card["pt"].split("/")[1]
@@ -175,10 +175,14 @@ for set in sortedCarddata:
         #     data += f'"power":"{card["pt"].split("/")[0]}",'
         # data += f'"relatedCards":{{"spellbook":[{LlistFormat(card["related"])}]}},'
         if card["type"]: cardtypesplit = card["type"].split(" ")
-        if "-" in cardtypesplit: cardtypesplit.remove("-")
+        carddict["types"] = cardtypesplit
+        if "-" in cardtypesplit:
+            i = cardtypesplit.index("-")
+            cardtypesplit = cardtypesplit[:i]
+        print(cardtypesplit)
+        carddict["types"] = cardtypesplit
         try: subtypes = card["type"].split("- ")[1].split(" ")
         except IndexError: subtypes = []
-        carddict["types"] = cardtypesplit
         carddict["subtypes"] = subtypes
         # data += f'"text":"{card["text"]}",'
         # if "pt" in card: data += f'"toughness":"{card["pt"].split("/")[1]}",'
