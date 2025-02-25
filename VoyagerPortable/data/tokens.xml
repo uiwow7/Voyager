@@ -19,17 +19,6 @@
  <reverse-related>Melodia, Voidtouched</reverse-related>
 </card>
 <card>
- <name>House AKT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact — Equipment</type>
- <tablerow>1</tablerow>
- <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
- <token>1</token>
- <set num="AKT268" rarity="bonus">tokens</set>
- <reverse-related>Accommodation</reverse-related>
-</card>
-<card>
  <name>Embraced Cards AKT</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -38,6 +27,7 @@
  <text>*(Put your embraced cards here. They're in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)*</text>
  <token>1</token>
  <set num="AKT240" rarity="bonus">tokens</set>
+ <reverse-related>Eschewer of Form</reverse-related>
  <reverse-related>ArkaiIxajaprataKgxrajatajex</reverse-related>
  <reverse-related>Atir, Heart of the Argent Court</reverse-related>
  <reverse-related>Callwolf Replica</reverse-related>
@@ -87,6 +77,30 @@
  <reverse-related>Waste Management</reverse-related>
  <reverse-related>Wind Tunnels</reverse-related>
  <reverse-related>Zeitgeist's Judgment</reverse-related>
+</card>
+<card>
+ <name>silver Horror 22EXPT</name>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Horror</type>
+ <tablerow>2</tablerow>
+ <text>Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
+ <token>1</token>
+ <set num="EXPT125" rarity="token">tokens</set>
+ <reverse-related>The Depths Talk Loudly</reverse-related>
+</card>
+<card>
+ <name>House AKT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact — Equipment</type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
+ <token>1</token>
+ <set num="AKT268" rarity="bonus">tokens</set>
+ <reverse-related>Accommodation</reverse-related>
 </card>
 <card>
  <name>red Incarnation 11AKT</name>
@@ -273,98 +287,6 @@
  <token>1</token>
  <set num="ITD181" rarity="token">tokens</set>
  <reverse-related>To be Forgotten in a Dream</reverse-related>
-</card>
-<card>
- <name>blue Student 22HTS</name>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Student</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HTS284" rarity="token">tokens</set>
- <reverse-related count="2">Afterschool Theater Club</reverse-related>
-</card>
-<card>
- <name>Treasure HTS</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Artifact</type>
- <tablerow>1</tablerow>
- <text>{T}, Sacrifice this token: Add one mana of any color.</text>
- <token>1</token>
- <set num="HTS285" rarity="token">tokens</set>
- <reverse-related>Banri and Kumiko, Falling Stars</reverse-related>
- <reverse-related>Capture the Spectrum</reverse-related>
- <reverse-related>Inherited Scythe</reverse-related>
- <reverse-related>Lethargic First Year</reverse-related>
- <reverse-related count="3">Pieces Fall into Place</reverse-related>
- <reverse-related>Prismad Reformer</reverse-related>
- <reverse-related>Professor of Hidden Arts</reverse-related>
- <reverse-related>Training Dummy</reverse-related>
- <reverse-related>Training Montage</reverse-related>
- <reverse-related>Traveller from Another Sky</reverse-related>
-</card>
-<card>
- <name>red Student 11HTS</name>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Student</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HTS286" rarity="token">tokens</set>
- <reverse-related>Boundless Swiftness</reverse-related>
- <reverse-related count="2">Dangle the Autograph</reverse-related>
- <reverse-related>Embrace the Day</reverse-related>
- <reverse-related>Harmony in Mayhem</reverse-related>
- <reverse-related>Star of the Class</reverse-related>
-</card>
-<card>
- <name>Everywhere HTS</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Land</type>
- <tablerow>0</tablerow>
- <text>This land is a Plains, Island, Swamp, Mountain, and Forest. *({T}: Add {W}, {U}, {B}, {R}, or {G}.)*</text>
- <token>1</token>
- <set num="HTS290" rarity="token">tokens</set>
- <reverse-related>Eclipse with Color</reverse-related>
- <reverse-related>Everywhere Beckons</reverse-related>
- <reverse-related>Possibilities Emerge, You Remain</reverse-related>
-</card>
-<card>
- <name>colorless Homunculus 33HTS</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/3</pt>
- <type>Token Creature — Homunculus</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HTS289" rarity="token">tokens</set>
- <reverse-related count="3">Endless Stream of Fans</reverse-related>
- <reverse-related>Everywhere Beckons</reverse-related>
- <reverse-related>Jaksa, Alone but Listening</reverse-related>
- <reverse-related>Lovely Afternoon at the Park</reverse-related>
- <reverse-related>Pathological Altruism</reverse-related>
-</card>
-<card>
- <name>white Bird 11HTS</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Bird</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="HTS293" rarity="token">tokens</set>
- <reverse-related count="2">Lovely Afternoon at the Park</reverse-related>
 </card>
 <card>
  <name>Cat Token VNM</name>
@@ -716,30 +638,6 @@
  <set num="ITD192" rarity="token">tokens</set>
 </card>
 <card>
- <name>black Demon Mystic HTS</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>★/★</pt>
- <type>Token Creature — Demon Mystic</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="HTS291" rarity="token">tokens</set>
-</card>
-<card>
- <name>green Dinosaur HTS</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>X/X</pt>
- <type>Token Creature — Dinosaur</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HTS292" rarity="token">tokens</set>
-</card>
-<card>
  <name>colorless Dragon 44AKT</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -794,17 +692,6 @@
  <set num="VNM322" rarity="bonus">tokens</set>
 </card>
 <card>
- <name>colorless Fish Horror 11HTS</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Fish Horror</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="HTS288" rarity="token">tokens</set>
-</card>
-<card>
  <name>Forest</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -857,28 +744,6 @@
  <text>Target creature gets -2/-0 until end of turn. Cast only outside of combat.</text>
  <token>1</token>
  <set num="VNM190" rarity="bonus">tokens</set>
-</card>
-<card>
- <name>colorless Horror 55HTS</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>5/5</pt>
- <type>Token Creature — Horror</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HTS287" rarity="token">tokens</set>
-</card>
-<card>
- <name>colorless Horror 11HTS</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Horror</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HTS283" rarity="token">tokens</set>
 </card>
 <card>
  <name>black Human 21AKT</name>
