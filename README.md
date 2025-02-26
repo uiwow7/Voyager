@@ -2,4 +2,4 @@
 Resources for the Custom MTG Format Voyager
 
 ## Setup
-*This is where I'll put setup instructions once I write them
+[Discord message with setup instructions](https://discord.com/channels/1337190611366838295/1337190784360779819/1342974235374518272) 
