@@ -5,7 +5,7 @@ Resources for the Custom MTG Format Voyager
 How to set up Voyager:
 
 **Oracle Imports (reccomended & cross-platform)**
-0. (Windows only) Download [cockatrice](https://cockatrice.us) and select install with portable mode. Install it to wherever you want.
+0. (Windows only) Download [cockatrice](https://cockatrice.github.io/) and select install with portable mode. Install it to wherever you want.
 1. Open cockatrice, oracle should run. If it doesn't, go to **Help** > **Check for Card Updates**, this will run oracle.
 2. In oracle, in the first window (for cards), input https://raw.githubusercontent.com/uiwow7/Voyager/refs/heads/main/tricedata/cards.xml
 3. In the second window (for tokens),  input https://raw.githubusercontent.com/uiwow7/Voyager/refs/heads/main/tricedata/tokens.xml
