@@ -2,108 +2,6 @@
 <cockatrice_carddatabase version="3">
 <cards>
 <card>
- <name>black Skeleton 11HEL</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Skeleton</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HEL234" rarity="token">tokens</set>
- <reverse-related>Aged Warmage</reverse-related>
- <reverse-related>Bemused Gorger</reverse-related>
- <reverse-related>Blazing Raid</reverse-related>
- <reverse-related count="2">Crumbling Monstrosity</reverse-related>
- <reverse-related count="2">Hellemental</reverse-related>
- <reverse-related>Processing Revenant</reverse-related>
- <reverse-related>Rambunctious Bonewalkers</reverse-related>
- <reverse-related count="3">Ransack the Tombs</reverse-related>
- <reverse-related>Remains of Despair</reverse-related>
- <reverse-related>Salvaged Legionnaire</reverse-related>
- <reverse-related>Skeletonfy</reverse-related>
-</card>
-<card>
- <name>green Skeleton Hydra 11HEL</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Skeleton Hydra</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HEL243" rarity="token">tokens</set>
- <reverse-related count="X">Bonemarrow Hydra</reverse-related>
-</card>
-<card>
- <name>white Zombie 22HEL</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Zombie</type>
- <tablerow>2</tablerow>
- <text>Lifelink Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
- <token>1</token>
- <set num="HEL232" rarity="token">tokens</set>
- <reverse-related>Castle Salus's Catacombs</reverse-related>
- <reverse-related>Crypt Defenders</reverse-related>
- <reverse-related>Fides, Bloodied Confidant</reverse-related>
- <reverse-related>Foreboding Milestone</reverse-related>
- <reverse-related>Phylactery Crafter</reverse-related>
- <reverse-related>Return for Duty</reverse-related>
- <reverse-related>Rotten Insight</reverse-related>
- <reverse-related count="2">Saintly Remains</reverse-related>
- <reverse-related>Shamble En Masse</reverse-related>
-</card>
-<card>
- <name>green Spider 21HEL</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/1</pt>
- <type>Token Creature — Spider</type>
- <tablerow>2</tablerow>
- <text>Reach</text>
- <token>1</token>
- <set num="HEL235" rarity="token">tokens</set>
- <reverse-related>Eafem, Lethal Arachne</reverse-related>
- <reverse-related>Nightmare Webbing</reverse-related>
- <reverse-related>Skittering Host</reverse-related>
- <reverse-related>Skittering Skullsifter</reverse-related>
-</card>
-<card>
- <name>blue Merfolk Horror 11HEL</name>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Merfolk Horror</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HEL233" rarity="token">tokens</set>
- <reverse-related>Faber's Hatching</reverse-related>
- <reverse-related count="2">Ghastly Tide</reverse-related>
- <reverse-related count="2">Gigas Screamer</reverse-related>
- <reverse-related count="2">Unidentifiable Mass</reverse-related>
-</card>
-<card>
- <name>white Vampire Soldier 31HEL</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/1</pt>
- <type>Token Creature — Vampire Soldier</type>
- <tablerow>2</tablerow>
- <text>Lifelink</text>
- <token>1</token>
- <set num="HEL262" rarity="token">tokens</set>
- <reverse-related>Sorin, Vengeful Sangrablade</reverse-related>
-</card>
-<card>
  <name>House AKT</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -267,6 +165,243 @@
  <reverse-related>Spokesman of the Mothweft</reverse-related>
 </card>
 <card>
+ <name>black Skeleton 11HEL</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Skeleton</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="HEL234" rarity="token">tokens</set>
+ <reverse-related>Aged Warmage</reverse-related>
+ <reverse-related>Bemused Gorger</reverse-related>
+ <reverse-related>Blazing Raid</reverse-related>
+ <reverse-related count="2">Crumbling Monstrosity</reverse-related>
+ <reverse-related count="2">Hellemental</reverse-related>
+ <reverse-related>Processing Revenant</reverse-related>
+ <reverse-related>Rambunctious Bonewalkers</reverse-related>
+ <reverse-related count="3">Ransack the Tombs</reverse-related>
+ <reverse-related>Remains of Despair</reverse-related>
+ <reverse-related>Salvaged Legionnaire</reverse-related>
+ <reverse-related>Skeletonfy</reverse-related>
+</card>
+<card>
+ <name>green Skeleton Hydra 11HEL</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Skeleton Hydra</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="HEL243" rarity="token">tokens</set>
+ <reverse-related count="X">Bonemarrow Hydra</reverse-related>
+</card>
+<card>
+ <name>white Zombie 22HEL</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Zombie</type>
+ <tablerow>2</tablerow>
+ <text>Lifelink Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
+ <token>1</token>
+ <set num="HEL232" rarity="token">tokens</set>
+ <reverse-related>Castle Salus's Catacombs</reverse-related>
+ <reverse-related>Crypt Defenders</reverse-related>
+ <reverse-related>Fides, Bloodied Confidant</reverse-related>
+ <reverse-related>Foreboding Milestone</reverse-related>
+ <reverse-related>Phylactery Crafter</reverse-related>
+ <reverse-related>Return for Duty</reverse-related>
+ <reverse-related>Rotten Insight</reverse-related>
+ <reverse-related count="2">Saintly Remains</reverse-related>
+ <reverse-related>Shamble En Masse</reverse-related>
+</card>
+<card>
+ <name>green Spider 21HEL</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/1</pt>
+ <type>Token Creature — Spider</type>
+ <tablerow>2</tablerow>
+ <text>Reach</text>
+ <token>1</token>
+ <set num="HEL235" rarity="token">tokens</set>
+ <reverse-related>Eafem, Lethal Arachne</reverse-related>
+ <reverse-related>Nightmare Webbing</reverse-related>
+ <reverse-related>Skittering Host</reverse-related>
+ <reverse-related>Skittering Skullsifter</reverse-related>
+</card>
+<card>
+ <name>blue Merfolk Horror 11HEL</name>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Merfolk Horror</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="HEL233" rarity="token">tokens</set>
+ <reverse-related>Faber's Hatching</reverse-related>
+ <reverse-related count="2">Ghastly Tide</reverse-related>
+ <reverse-related count="2">Gigas Screamer</reverse-related>
+ <reverse-related count="2">Unidentifiable Mass</reverse-related>
+</card>
+<card>
+ <name>white Vampire Soldier 31HEL</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/1</pt>
+ <type>Token Creature — Vampire Soldier</type>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+ <token>1</token>
+ <set num="HEL262" rarity="token">tokens</set>
+ <reverse-related>Sorin, Vengeful Sangrablade</reverse-related>
+</card>
+<card>
+ <name>white Nightmare 11ITD</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Nightmare</type>
+ <tablerow>2</tablerow>
+ <text>Lifelink This creature can't block.</text>
+ <token>1</token>
+ <set num="ITD182" rarity="token">tokens</set>
+ <reverse-related>Angel of the Forest</reverse-related>
+ <reverse-related count="2">Antisun's Domain</reverse-related>
+ <reverse-related count="2">Avaz, Moontouched Prince</reverse-related>
+ <reverse-related>Beacon Dreamer</reverse-related>
+ <reverse-related>Desolate Meeting</reverse-related>
+ <reverse-related count="2">Feast of Butterflies</reverse-related>
+ <reverse-related>Ghostspitter</reverse-related>
+ <reverse-related>Grasping Eternity</reverse-related>
+ <reverse-related>Illuminant Master</reverse-related>
+ <reverse-related count="3">Restlessness</reverse-related>
+ <reverse-related>Secrets of Radiance</reverse-related>
+</card>
+<card>
+ <name>colorless Faerie Horror 11ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Faerie Horror</type>
+ <tablerow>2</tablerow>
+ <text>Flying This creature can't block.</text>
+ <token>1</token>
+ <set num="ITD177" rarity="token">tokens</set>
+ <reverse-related>Beseech the Divine</reverse-related>
+ <reverse-related>Goddess of Puppet Strings</reverse-related>
+</card>
+<card>
+ <name>colorless Horror ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>★/★</pt>
+ <type>Creature — Horror</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="ITD178" rarity="token">tokens</set>
+ <reverse-related>Chimerism</reverse-related>
+</card>
+<card>
+ <name>Everywhere ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Land</type>
+ <tablerow>0</tablerow>
+ <text>This land has every basic land type.</text>
+ <token>1</token>
+ <set num="ITD183" rarity="token">tokens</set>
+ <reverse-related>Strange Wayfarer</reverse-related>
+</card>
+<card>
+ <name>colorless Insect 11ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Artifact Creature — Insect</type>
+ <tablerow>2</tablerow>
+ <text>Flying This creature can't block.</text>
+ <token>1</token>
+ <set num="ITD200" rarity="token">tokens</set>
+ <reverse-related>Symbiotic Host</reverse-related>
+</card>
+<card>
+ <name>Ringing Noise ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays {1}.</text>
+ <token>1</token>
+ <set num="ITD179" rarity="token">tokens</set>
+ <reverse-related>The Ephemeral Piper</reverse-related>
+</card>
+<card>
+ <name>white Illusion 33ITD</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/3</pt>
+ <type>Token Creature — Illusion</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="ITD181" rarity="token">tokens</set>
+ <reverse-related>To be Forgotten in a Dream</reverse-related>
+</card>
+<card>
+ <name>Insect Plant Token EXPT</name>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Insect Plant</type>
+ <tablerow>2</tablerow>
+ <text>Decayed. *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
+ <token>1</token>
+ <set num="EXPT117" rarity="token">tokens</set>
+ <reverse-related>Algael-leael</reverse-related>
+ <reverse-related count="2">Scholigaunt</reverse-related>
+ <reverse-related>Sryyn Spawner</reverse-related>
+ <reverse-related>Xylem Attendant</reverse-related>
+</card>
+<card>
+ <name>Wall Token EXPT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>0/3</pt>
+ <type>Token Artifact Creature — Wall</type>
+ <tablerow>2</tablerow>
+ <text>Defender *(This creature can't attack.)*</text>
+ <token>1</token>
+ <set num="EXPT123" rarity="token">tokens</set>
+ <reverse-related>Hopeless Summit</reverse-related>
+</card>
+<card>
+ <name>Shapeshifter Token EXPT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Shapeshifter</type>
+ <tablerow>2</tablerow>
+ <text>Changeling *(This card is every creature type.)*</text>
+ <token>1</token>
+ <set num="EXPT140" rarity="token">tokens</set>
+ <reverse-related>Lost Cause</reverse-related>
+</card>
+<card>
  <name>silver Horror 22EXPT</name>
  <color>I</color>
  <manacost></manacost>
@@ -276,7 +411,7 @@
  <tablerow>2</tablerow>
  <text>Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
  <token>1</token>
- <set num="EXPT125" rarity="token">tokens</set>
+ <set num="EXPT85" rarity="token">tokens</set>
  <reverse-related>The Depths Talk Loudly</reverse-related>
 </card>
 <card>
@@ -382,6 +517,52 @@
  <reverse-related>Urwrapir Matriarch</reverse-related>
 </card>
 <card>
+ <name>Cat Token VNM</name>
+ <color>W</color>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Enchantment Creature — Cat</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="VNM202" rarity="token">tokens</set>
+ <reverse-related>Avlod Bulwark</reverse-related>
+ <reverse-related>Gateway Guardian</reverse-related>
+ <reverse-related>Giant's Blade</reverse-related>
+ <reverse-related>Outlands Riftbearer</reverse-related>
+ <reverse-related>Rift Tender</reverse-related>
+ <reverse-related>Multaph's Respite's Spellbook</reverse-related>
+ <reverse-related>Subdued Rift</reverse-related>
+</card>
+<card>
+ <name>green and silver Icon VNM</name>
+ <color>I</color>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>X/X</pt>
+ <type>Token Enchantment Creature — Icon</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="VNM337" rarity="token">tokens</set>
+ <reverse-related>Impunity of Souls</reverse-related>
+ <reverse-related>Splendid Genesis</reverse-related>
+</card>
+<card>
+ <name>Multaph's Respite's Spellbook VNM</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Spellbook</type>
+ <tablerow>1</tablerow>
+ <text>Subdued Rift {W/B}| Skill Sorcery Create a 1/1 black and white Cat enchantment creature token. Warped Exploration {2}| Skill Sorcery Create a trace of a basic land of any type into your hand. Cut from Void {2}{U}| Skill Instant Scry 1, then draw a card.</text>
+ <token>1</token>
+ <set num="VNM339" rarity="bonus">tokens</set>
+ <reverse-related attach="transform">Multaph's Respite</reverse-related>
+</card>
+<card>
  <name>Beast Token WAW</name>
  <color>G</color>
  <manacost></manacost>
@@ -455,147 +636,6 @@
  <token>1</token>
  <set num="WAW125" rarity="token">tokens</set>
  <reverse-related>Tenuous Partners</reverse-related>
-</card>
-<card>
- <name>Cat Token VNM</name>
- <color>W</color>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Enchantment Creature — Cat</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="VNM202" rarity="token">tokens</set>
- <reverse-related>Avlod Bulwark</reverse-related>
- <reverse-related>Gateway Guardian</reverse-related>
- <reverse-related>Giant's Blade</reverse-related>
- <reverse-related>Outlands Riftbearer</reverse-related>
- <reverse-related>Rift Tender</reverse-related>
- <reverse-related>Multaph's Respite's Spellbook</reverse-related>
- <reverse-related>Subdued Rift</reverse-related>
-</card>
-<card>
- <name>green and silver Icon VNM</name>
- <color>I</color>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>X/X</pt>
- <type>Token Enchantment Creature — Icon</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="VNM337" rarity="token">tokens</set>
- <reverse-related>Impunity of Souls</reverse-related>
- <reverse-related>Splendid Genesis</reverse-related>
-</card>
-<card>
- <name>Multaph's Respite's Spellbook VNM</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Spellbook</type>
- <tablerow>1</tablerow>
- <text>Subdued Rift {W/B}| Skill Sorcery Create a 1/1 black and white Cat enchantment creature token. Warped Exploration {2}| Skill Sorcery Create a trace of a basic land of any type into your hand. Cut from Void {2}{U}| Skill Instant Scry 1, then draw a card.</text>
- <token>1</token>
- <set num="VNM339" rarity="bonus">tokens</set>
- <reverse-related attach="transform">Multaph's Respite</reverse-related>
-</card>
-<card>
- <name>white Nightmare 11ITD</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Nightmare</type>
- <tablerow>2</tablerow>
- <text>Lifelink This creature can't block.</text>
- <token>1</token>
- <set num="ITD182" rarity="token">tokens</set>
- <reverse-related>Angel of the Forest</reverse-related>
- <reverse-related count="2">Antisun's Domain</reverse-related>
- <reverse-related count="2">Avaz, Moontouched Prince</reverse-related>
- <reverse-related>Beacon Dreamer</reverse-related>
- <reverse-related>Desolate Meeting</reverse-related>
- <reverse-related count="2">Feast of Butterflies</reverse-related>
- <reverse-related>Ghostspitter</reverse-related>
- <reverse-related>Grasping Eternity</reverse-related>
- <reverse-related>Illuminant Master</reverse-related>
- <reverse-related count="3">Restlessness</reverse-related>
- <reverse-related>Secrets of Radiance</reverse-related>
-</card>
-<card>
- <name>colorless Faerie Horror 11ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Faerie Horror</type>
- <tablerow>2</tablerow>
- <text>Flying This creature can't block.</text>
- <token>1</token>
- <set num="ITD177" rarity="token">tokens</set>
- <reverse-related>Beseech the Divine</reverse-related>
- <reverse-related>Goddess of Puppet Strings</reverse-related>
-</card>
-<card>
- <name>colorless Horror ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>★/★</pt>
- <type>Creature — Horror</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="ITD178" rarity="token">tokens</set>
- <reverse-related>Chimerism</reverse-related>
-</card>
-<card>
- <name>Everywhere ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Land</type>
- <tablerow>0</tablerow>
- <text>This land has every basic land type.</text>
- <token>1</token>
- <set num="ITD183" rarity="token">tokens</set>
- <reverse-related>Strange Wayfarer</reverse-related>
-</card>
-<card>
- <name>colorless Insect 11ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Artifact Creature — Insect</type>
- <tablerow>2</tablerow>
- <text>Flying This creature can't block.</text>
- <token>1</token>
- <set num="ITD200" rarity="token">tokens</set>
- <reverse-related>Symbiotic Host</reverse-related>
-</card>
-<card>
- <name>Ringing Noise ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays {1}.</text>
- <token>1</token>
- <set num="ITD179" rarity="token">tokens</set>
- <reverse-related>The Ephemeral Piper</reverse-related>
-</card>
-<card>
- <name>white Illusion 33ITD</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/3</pt>
- <type>Token Creature — Illusion</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="ITD181" rarity="token">tokens</set>
- <reverse-related>To be Forgotten in a Dream</reverse-related>
 </card>
 <card>
  <name>Ageless Caretaker WAW</name>
@@ -733,7 +773,7 @@
  <tablerow>2</tablerow>
  <text>Flying, haste Distant Vulture has lifelink as long as it's a token.</text>
  <token>1</token>
- <set num="EXPT149" rarity="token">tokens</set>
+ <set num="EXPT109" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Dragon 44AKT</name>
@@ -765,7 +805,7 @@
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
- <set num="EXPT136" rarity="token">tokens</set>
+ <set num="EXPT96" rarity="token">tokens</set>
 </card>
 <card>
  <name>Emergent Anomaly ITD ITD</name>
@@ -1223,6 +1263,17 @@
  <text>Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM195" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>Robot Token EXPT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Artifact Creature — Robot</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="EXPT141" rarity="token">tokens</set>
 </card>
 <card>
  <name>Sanctum Reminder VNM</name>
