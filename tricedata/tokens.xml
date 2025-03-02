@@ -2,414 +2,6 @@
 <cockatrice_carddatabase version="3">
 <cards>
 <card>
- <name>Drake Token VNM</name>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Drake</type>
- <tablerow>2</tablerow>
- <text>Flying This can't block.</text>
- <token>1</token>
- <set num="VNM204" rarity="bonus">tokens</set>
- <reverse-related>Cerise, Augur of Flow</reverse-related>
- <reverse-related count="2">Aerial Roost</reverse-related>
- <reverse-related>Drake Wrangler</reverse-related>
- <reverse-related>Kaln-Ocean Wispop</reverse-related>
- <reverse-related>Melodia, Voidtouched</reverse-related>
-</card>
-<card>
- <name>Embraced Cards AKT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Reminder</type>
- <tablerow>1</tablerow>
- <text>*(Put your embraced cards here. They're in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)*</text>
- <token>1</token>
- <set num="AKT239" rarity="bonus">tokens</set>
- <reverse-related>Eschewer of Form</reverse-related>
- <reverse-related>ArkaiIxajaprataKgxrajatajex</reverse-related>
- <reverse-related>Atir, Heart of the Argent Court</reverse-related>
- <reverse-related>Callwolf Replica</reverse-related>
- <reverse-related>Consult the Cosmos</reverse-related>
- <reverse-related>Deliver Omen</reverse-related>
- <reverse-related>Disaster Responder</reverse-related>
- <reverse-related>Disregard, Universal Workhouse</reverse-related>
- <reverse-related>Eusocial Signal</reverse-related>
- <reverse-related>Fallen Archmage Paun</reverse-related>
- <reverse-related>Bisapience Studies</reverse-related>
- <reverse-related>Found Family</reverse-related>
- <reverse-related>Gatrix, Nursery of the Artificial</reverse-related>
- <reverse-related>God-Worm Bulwark</reverse-related>
- <reverse-related>Grand Breakthrough</reverse-related>
- <reverse-related>Hazenwyld, Callwolf Citadel</reverse-related>
- <reverse-related>Hazenwyld Totem</reverse-related>
- <reverse-related>Hyeth, Ithian Imperial Academy</reverse-related>
- <reverse-related>Identity Connoisseur</reverse-related>
- <reverse-related>Ilx, Mothweft Ambassador</reverse-related>
- <reverse-related>Infuse with Identity</reverse-related>
- <reverse-related>Invoke Martial Law</reverse-related>
- <reverse-related>Ith, Entrance to the Heavens</reverse-related>
- <reverse-related>Jobseeker's Allowance</reverse-related>
- <reverse-related>Memorial Service</reverse-related>
- <reverse-related>Northern Tactics</reverse-related>
- <reverse-related>Odajex, Omnisonder's Source</reverse-related>
- <reverse-related>Old Guard Guru</reverse-related>
- <reverse-related>Partner's Tax Returns</reverse-related>
- <reverse-related>Percival's Chosen</reverse-related>
- <reverse-related>Phterajex, Chancellor's Outpost</reverse-related>
- <reverse-related>Platinum's Spymaster</reverse-related>
- <reverse-related>Propaganda Spreading</reverse-related>
- <reverse-related>Protect the Uninjected</reverse-related>
- <reverse-related>Rapid Response</reverse-related>
- <reverse-related>Regeneration Programme</reverse-related>
- <reverse-related>Saviour of the Disfigured</reverse-related>
- <reverse-related>Scathing Critique</reverse-related>
- <reverse-related>Steal the Ur-Gift</reverse-related>
- <reverse-related>Suppressive Fire</reverse-related>
- <reverse-related>Survey New Lands</reverse-related>
- <reverse-related>The Urveil</reverse-related>
- <reverse-related>Therian Whispers</reverse-related>
- <reverse-related>Unbending Will </reverse-related>
- <reverse-related>Vrataport, Failed Capital</reverse-related>
- <reverse-related>Vrataport Mural</reverse-related>
- <reverse-related>Wanderlusted Urdon</reverse-related>
- <reverse-related>Waste Management</reverse-related>
- <reverse-related>Wind Tunnels</reverse-related>
- <reverse-related>Zeitgeist's Judgment</reverse-related>
-</card>
-<card>
- <name>silver Horror 22EXPT</name>
- <color>I</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Horror</type>
- <tablerow>2</tablerow>
- <text>Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
- <token>1</token>
- <set num="EXPT125" rarity="token">tokens</set>
- <reverse-related>The Depths Talk Loudly</reverse-related>
-</card>
-<card>
- <name>House AKT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact — Equipment</type>
- <tablerow>1</tablerow>
- <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
- <token>1</token>
- <set num="AKT267" rarity="bonus">tokens</set>
- <reverse-related>Accommodation</reverse-related>
-</card>
-<card>
- <name>red Incarnation 11AKT</name>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Incarnation</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="AKT243" rarity="bonus">tokens</set>
- <reverse-related>Atraja the Mutable</reverse-related>
- <reverse-related>Ineffable Spawning</reverse-related>
- <reverse-related>Zeitgeist's Judgment</reverse-related>
-</card>
-<card>
- <name>white Soldier 11AKT</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Soldier</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="AKT247" rarity="bonus">tokens</set>
- <reverse-related count="2">God-Worm Bulwark</reverse-related>
- <reverse-related count="X">Lightning's Protection</reverse-related>
- <reverse-related count="2">Lunette, Imperial Strategist</reverse-related>
- <reverse-related>Raltan Rescuer</reverse-related>
- <reverse-related>Raltan Protector</reverse-related>
- <reverse-related count="2">Rapid Response</reverse-related>
-</card>
-<card>
- <name>Treasure</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Artifact — Treasure</type>
- <tablerow>1</tablerow>
- <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
- <token>1</token>
- <set num="AKT241" rarity="bonus">tokens</set>
- <reverse-related>Hazard Technician</reverse-related>
- <reverse-related>Hazardous Technician</reverse-related>
- <reverse-related>Hazenwyld Beastmaster</reverse-related>
- <reverse-related>Hazenwyld Ransacker</reverse-related>
- <reverse-related>Sound Engineer</reverse-related>
-</card>
-<card>
- <name>green Hex Citizen 11AKT</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Hex Citizen</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="AKT244" rarity="bonus">tokens</set>
- <reverse-related>Heart of Prithite</reverse-related>
- <reverse-related>Ur-Gifted Surgeon</reverse-related>
- <reverse-related>Homestead of the Meek</reverse-related>
- <reverse-related>Host Farm Babysitter</reverse-related>
- <reverse-related count="2">Infested Fortress</reverse-related>
- <reverse-related>Orthodox Scholar</reverse-related>
-</card>
-<card>
- <name>red Incarnation Soldier 32AKT</name>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/2</pt>
- <type>Token Creature — Incarnation Soldier</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="AKT246" rarity="token">tokens</set>
- <reverse-related>Lethal Force</reverse-related>
-</card>
-<card>
- <name>white Insect Advisor 11AKT</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Insect Advisor</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="AKT139" rarity="bonus">tokens</set>
- <reverse-related>Spokesman of the Mothweft</reverse-related>
-</card>
-<card>
- <name>colorless Cleric 01PTN</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>0/1</pt>
- <type>Token Creature — Cleric</type>
- <tablerow>2</tablerow>
- <text>Sacrifice two Clerics: Transform this creature. Activate only as a sorcery.</text>
- <token>1</token>
- <set num="PTN271" rarity="token">tokens</set>
- <reverse-related>Bringer of Glory</reverse-related>
- <reverse-related>Burgeoning Risen</reverse-related>
- <reverse-related>Callidate Invocation</reverse-related>
- <reverse-related>Carapace Ancestor</reverse-related>
- <reverse-related>Carapace Guardian</reverse-related>
- <reverse-related>Carapace Threadbearer</reverse-related>
- <reverse-related>Cartographed Risen</reverse-related>
- <reverse-related>Corrivality</reverse-related>
- <reverse-related>Covert Cloak</reverse-related>
- <reverse-related>Defacement</reverse-related>
- <reverse-related>Discover the Stone Gods</reverse-related>
- <reverse-related>Escape into the Night</reverse-related>
- <reverse-related>Flesh Weaver</reverse-related>
- <reverse-related>Glassgarden Elder</reverse-related>
- <reverse-related>Glassgarden Watcheye</reverse-related>
- <reverse-related>High Cyprian</reverse-related>
- <reverse-related>Ignite Fervor</reverse-related>
- <reverse-related>Indulgent Cyprian</reverse-related>
- <reverse-related>Moonlit Augury</reverse-related>
- <reverse-related>Mystical Trail</reverse-related>
- <reverse-related>Pupil of Defiance</reverse-related>
- <reverse-related>Ring-Yew's Chosen</reverse-related>
- <reverse-related>Rite Flamecaller</reverse-related>
- <reverse-related>Scarring Servitude</reverse-related>
- <reverse-related>Seaside Smuggler</reverse-related>
- <reverse-related>Society Headquarters</reverse-related>
- <reverse-related>Take Prisoners</reverse-related>
- <reverse-related>The Geminiad</reverse-related>
- <reverse-related>The Sky, The Soul</reverse-related>
- <reverse-related>The Thunderskin</reverse-related>
- <reverse-related>Tireless Recruiter</reverse-related>
- <reverse-related>Twins' Guardian</reverse-related>
- <reverse-related>Unceasing Initiation</reverse-related>
- <reverse-related>Veil of Dreams</reverse-related>
-</card>
-<card>
- <name>Scar PTN</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Boon</type>
- <tablerow>1</tablerow>
- <text>*(When this boon triggers, it disappears. Even if you didn't pay the {1}.)* When a creature you control dies, you may pay {1}. If you do, draw a card.</text>
- <token>1</token>
- <set num="PTN141" rarity="token">tokens</set>
- <reverse-related>Broken Sun-Servant</reverse-related>
- <reverse-related>Carapace Disciple</reverse-related>
- <reverse-related>Debilitated Tragulari</reverse-related>
- <reverse-related>Expose Mortality</reverse-related>
- <reverse-related>Flames of Emnity</reverse-related>
- <reverse-related>Horomachist Ending</reverse-related>
- <reverse-related>Implant the Seeds</reverse-related>
- <reverse-related>Nowhere Deathlord</reverse-related>
- <reverse-related>Nowhere Stygian</reverse-related>
- <reverse-related>Open the Self</reverse-related>
- <reverse-related>Opener of Realities</reverse-related>
- <reverse-related>Perfect Stillness</reverse-related>
- <reverse-related>Ragged Sun's Angel</reverse-related>
- <reverse-related>Ravenous Unmaker</reverse-related>
- <reverse-related>Ritual Daggar</reverse-related>
- <reverse-related>Root of Mercy</reverse-related>
- <reverse-related count="X">Seven-Coil's Scion</reverse-related>
- <reverse-related>Sky-Scar Angel</reverse-related>
- <reverse-related>Spirit of Defiance</reverse-related>
- <reverse-related>Stained Silver</reverse-related>
- <reverse-related>Tattered Cyprian</reverse-related>
- <reverse-related>The Frangiclave</reverse-related>
- <reverse-related>The Old Forms</reverse-related>
- <reverse-related>Wolven Hatred</reverse-related>
-</card>
-<card>
- <name>green Wolf 22PTN</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Wolf</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="PTN149" rarity="token">tokens</set>
- <reverse-related>Flames of Emnity</reverse-related>
- <reverse-related>Smoldering Pack</reverse-related>
- <reverse-related>Wolf-Splinter</reverse-related>
-</card>
-<card>
- <name>white Angel 22PTN</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Angel</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="PTN150" rarity="token">tokens</set>
- <reverse-related>Guided Crusader</reverse-related>
-</card>
-<card>
- <name>black Worm 11PTN</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Worm</type>
- <tablerow>2</tablerow>
- <text>Deathtouch, infect *(This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)*</text>
- <token>1</token>
- <set num="PTN148" rarity="token">tokens</set>
- <reverse-related count="X">The Museum of Worms</reverse-related>
-</card>
-<card>
- <name>white Nightmare 11ITD</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Nightmare</type>
- <tablerow>2</tablerow>
- <text>Lifelink This creature can't block.</text>
- <token>1</token>
- <set num="ITD182" rarity="token">tokens</set>
- <reverse-related>Angel of the Forest</reverse-related>
- <reverse-related count="2">Antisun's Domain</reverse-related>
- <reverse-related count="2">Avaz, Moontouched Prince</reverse-related>
- <reverse-related>Beacon Dreamer</reverse-related>
- <reverse-related>Desolate Meeting</reverse-related>
- <reverse-related count="2">Feast of Butterflies</reverse-related>
- <reverse-related>Ghostspitter</reverse-related>
- <reverse-related>Grasping Eternity</reverse-related>
- <reverse-related>Illuminant Master</reverse-related>
- <reverse-related count="3">Restlessness</reverse-related>
- <reverse-related>Secrets of Radiance</reverse-related>
-</card>
-<card>
- <name>colorless Faerie Horror 11ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Faerie Horror</type>
- <tablerow>2</tablerow>
- <text>Flying This creature can't block.</text>
- <token>1</token>
- <set num="ITD177" rarity="token">tokens</set>
- <reverse-related>Beseech the Divine</reverse-related>
- <reverse-related>Goddess of Puppet Strings</reverse-related>
-</card>
-<card>
- <name>colorless Horror ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>★/★</pt>
- <type>Creature — Horror</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="ITD178" rarity="token">tokens</set>
- <reverse-related>Chimerism</reverse-related>
-</card>
-<card>
- <name>Everywhere ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Land</type>
- <tablerow>0</tablerow>
- <text>This land has every basic land type.</text>
- <token>1</token>
- <set num="ITD183" rarity="token">tokens</set>
- <reverse-related>Strange Wayfarer</reverse-related>
-</card>
-<card>
- <name>colorless Insect 11ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Artifact Creature — Insect</type>
- <tablerow>2</tablerow>
- <text>Flying This creature can't block.</text>
- <token>1</token>
- <set num="ITD200" rarity="token">tokens</set>
- <reverse-related>Symbiotic Host</reverse-related>
-</card>
-<card>
- <name>Ringing Noise ITD</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Enchantment</type>
- <tablerow>1</tablerow>
- <text>At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays {1}.</text>
- <token>1</token>
- <set num="ITD179" rarity="token">tokens</set>
- <reverse-related>The Ephemeral Piper</reverse-related>
-</card>
-<card>
- <name>white Illusion 33ITD</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/3</pt>
- <type>Token Creature — Illusion</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="ITD181" rarity="token">tokens</set>
- <reverse-related>To be Forgotten in a Dream</reverse-related>
-</card>
-<card>
  <name>black Skeleton 11HEL</name>
  <color>B</color>
  <manacost></manacost>
@@ -512,127 +104,180 @@
  <reverse-related>Sorin, Vengeful Sangrablade</reverse-related>
 </card>
 <card>
- <name>Cat Token VNM</name>
- <color>W</color>
- <color>B</color>
+ <name>House AKT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact — Equipment</type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
+ <token>1</token>
+ <set num="AKT267" rarity="bonus">tokens</set>
+ <reverse-related>Accommodation</reverse-related>
+</card>
+<card>
+ <name>Embraced Cards AKT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Reminder</type>
+ <tablerow>1</tablerow>
+ <text>*(Put your embraced cards here. They're in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)*</text>
+ <token>1</token>
+ <set num="AKT239" rarity="bonus">tokens</set>
+ <reverse-related>ArkaiIxajaprataKgxrajatajex</reverse-related>
+ <reverse-related>Atir, Heart of the Argent Court</reverse-related>
+ <reverse-related>Callwolf Replica</reverse-related>
+ <reverse-related>Consult the Cosmos</reverse-related>
+ <reverse-related>Deliver Omen</reverse-related>
+ <reverse-related>Disaster Responder</reverse-related>
+ <reverse-related>Disregard, Universal Workhouse</reverse-related>
+ <reverse-related>Eusocial Signal</reverse-related>
+ <reverse-related>Fallen Archmage Paun</reverse-related>
+ <reverse-related>Bisapience Studies</reverse-related>
+ <reverse-related>Found Family</reverse-related>
+ <reverse-related>Gatrix, Nursery of the Artificial</reverse-related>
+ <reverse-related>God-Worm Bulwark</reverse-related>
+ <reverse-related>Grand Breakthrough</reverse-related>
+ <reverse-related>Hazenwyld, Callwolf Citadel</reverse-related>
+ <reverse-related>Hazenwyld Totem</reverse-related>
+ <reverse-related>Hyeth, Ithian Imperial Academy</reverse-related>
+ <reverse-related>Identity Connoisseur</reverse-related>
+ <reverse-related>Ilx, Mothweft Ambassador</reverse-related>
+ <reverse-related>Infuse with Identity</reverse-related>
+ <reverse-related>Invoke Martial Law</reverse-related>
+ <reverse-related>Ith, Entrance to the Heavens</reverse-related>
+ <reverse-related>Jobseeker's Allowance</reverse-related>
+ <reverse-related>Memorial Service</reverse-related>
+ <reverse-related>Northern Tactics</reverse-related>
+ <reverse-related>Odajex, Omnisonder's Source</reverse-related>
+ <reverse-related>Old Guard Guru</reverse-related>
+ <reverse-related>Partner's Tax Returns</reverse-related>
+ <reverse-related>Percival's Chosen</reverse-related>
+ <reverse-related>Phterajex, Chancellor's Outpost</reverse-related>
+ <reverse-related>Platinum's Spymaster</reverse-related>
+ <reverse-related>Propaganda Spreading</reverse-related>
+ <reverse-related>Protect the Uninjected</reverse-related>
+ <reverse-related>Rapid Response</reverse-related>
+ <reverse-related>Regeneration Programme</reverse-related>
+ <reverse-related>Saviour of the Disfigured</reverse-related>
+ <reverse-related>Scathing Critique</reverse-related>
+ <reverse-related>Steal the Ur-Gift</reverse-related>
+ <reverse-related>Suppressive Fire</reverse-related>
+ <reverse-related>Survey New Lands</reverse-related>
+ <reverse-related>The Urveil</reverse-related>
+ <reverse-related>Therian Whispers</reverse-related>
+ <reverse-related>Unbending Will </reverse-related>
+ <reverse-related>Vrataport, Failed Capital</reverse-related>
+ <reverse-related>Vrataport Mural</reverse-related>
+ <reverse-related>Wanderlusted Urdon</reverse-related>
+ <reverse-related>Waste Management</reverse-related>
+ <reverse-related>Wind Tunnels</reverse-related>
+ <reverse-related>Zeitgeist's Judgment</reverse-related>
+ <reverse-related>Eschewer of Form</reverse-related>
+</card>
+<card>
+ <name>red Incarnation 11AKT</name>
+ <color>R</color>
  <manacost></manacost>
  <cmc>0</cmc>
  <pt>1/1</pt>
- <type>Token Enchantment Creature — Cat</type>
+ <type>Token Creature — Incarnation</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="AKT243" rarity="bonus">tokens</set>
+ <reverse-related>Atraja the Mutable</reverse-related>
+ <reverse-related>Ineffable Spawning</reverse-related>
+ <reverse-related>Zeitgeist's Judgment</reverse-related>
+</card>
+<card>
+ <name>white Soldier 11AKT</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Soldier</type>
  <tablerow>2</tablerow>
  <text></text>
  <token>1</token>
- <set num="VNM202" rarity="token">tokens</set>
- <reverse-related>Avlod Bulwark</reverse-related>
- <reverse-related>Gateway Guardian</reverse-related>
- <reverse-related>Giant's Blade</reverse-related>
- <reverse-related>Outlands Riftbearer</reverse-related>
- <reverse-related>Rift Tender</reverse-related>
- <reverse-related>Subdued Rift</reverse-related>
+ <set num="AKT247" rarity="bonus">tokens</set>
+ <reverse-related count="2">God-Worm Bulwark</reverse-related>
+ <reverse-related count="X">Lightning's Protection</reverse-related>
+ <reverse-related count="2">Lunette, Imperial Strategist</reverse-related>
+ <reverse-related>Raltan Rescuer</reverse-related>
+ <reverse-related>Raltan Protector</reverse-related>
+ <reverse-related count="2">Rapid Response</reverse-related>
 </card>
 <card>
- <name>Drake Token VNM 2</name>
+ <name>Treasure</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Artifact — Treasure</type>
+ <tablerow>1</tablerow>
+ <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+ <set num="AKT241" rarity="bonus">tokens</set>
+ <reverse-related>Hazard Technician</reverse-related>
+ <reverse-related>Hazardous Technician</reverse-related>
+ <reverse-related>Hazenwyld Beastmaster</reverse-related>
+ <reverse-related>Hazenwyld Ransacker</reverse-related>
+ <reverse-related>Sound Engineer</reverse-related>
+</card>
+<card>
+ <name>green Hex Citizen 11AKT</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Hex Citizen</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="AKT244" rarity="bonus">tokens</set>
+ <reverse-related>Heart of Prithite</reverse-related>
+ <reverse-related>Ur-Gifted Surgeon</reverse-related>
+ <reverse-related>Homestead of the Meek</reverse-related>
+ <reverse-related>Host Farm Babysitter</reverse-related>
+ <reverse-related count="2">Infested Fortress</reverse-related>
+ <reverse-related>Orthodox Scholar</reverse-related>
+</card>
+<card>
+ <name>red Incarnation Soldier 32AKT</name>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/2</pt>
+ <type>Token Creature — Incarnation Soldier</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="AKT246" rarity="token">tokens</set>
+ <reverse-related>Lethal Force</reverse-related>
+</card>
+<card>
+ <name>white Insect Advisor 11AKT</name>
  <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Insect Advisor</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="AKT139" rarity="bonus">tokens</set>
+ <reverse-related>Spokesman of the Mothweft</reverse-related>
+</card>
+<card>
+ <name>silver Horror 22EXPT</name>
+ <color>I</color>
  <manacost></manacost>
  <cmc>0</cmc>
  <pt>2/2</pt>
- <type>Token Creature — Drake</type>
+ <type>Token Creature — Horror</type>
  <tablerow>2</tablerow>
- <text>Flying</text>
+ <text>Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
  <token>1</token>
- <set num="VNM198" rarity="bonus">tokens</set>
- <reverse-related>Breach of Protection</reverse-related>
- <reverse-related>Drake Rider</reverse-related>
-</card>
-<card>
- <name>green and silver Icon VNM</name>
- <color>I</color>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>X/X</pt>
- <type>Token Enchantment Creature — Icon</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="VNM337" rarity="token">tokens</set>
- <reverse-related>Impunity of Souls</reverse-related>
- <reverse-related>Splendid Genesis</reverse-related>
-</card>
-<card>
- <name>Beast Token WAW</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/3</pt>
- <type>Token Creature — Beast</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="WAW114" rarity="token">tokens</set>
- <reverse-related>Anything and Everything</reverse-related>
- <reverse-related>Borderholt Herdcaller</reverse-related>
- <reverse-related>Deepholt Encounter</reverse-related>
- <reverse-related>Destructive Desire</reverse-related>
- <reverse-related>Ilcan Entrancer</reverse-related>
- <reverse-related>New Tensuo Calmkeeper</reverse-related>
- <reverse-related>Numberless Procession</reverse-related>
- <reverse-related>Worldsoul Ambassador</reverse-related>
-</card>
-<card>
- <name>Story of a Dead Plane WAW</name>
- <color>W</color>
- <color>U</color>
- <color>B</color>
- <color>R</color>
- <color>G</color>
- <color>I</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Enchantment</type>
- <tablerow>1</tablerow>
- <text>This enchantment is all colors. Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.”</text>
- <token>1</token>
- <set num="WAW27" rarity="token">tokens</set>
- <reverse-related>Dhere, Preserver of Memories</reverse-related>
-</card>
-<card>
- <name>Memory of Home WAW</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Enchantment</type>
- <tablerow>1</tablerow>
- <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can't block, where X is its mana value. Do this only once on each of your turns.</text>
- <token>1</token>
- <set num="WAW12" rarity="token">tokens</set>
- <reverse-related>Norr, Ajha's Lieutenant</reverse-related>
-</card>
-<card>
- <name>Dragon Token WAW</name>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>5/5</pt>
- <type>Token Creature — Dragon</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="WAW8" rarity="token">tokens</set>
- <reverse-related>Starstruck Skitter</reverse-related>
-</card>
-<card>
- <name>Demon Token WAW</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>4/4</pt>
- <type>Token Creature — Demon</type>
- <tablerow>2</tablerow>
- <text>Flying This creature can't block.</text>
- <token>1</token>
- <set num="WAW125" rarity="token">tokens</set>
- <reverse-related>Tenuous Partners</reverse-related>
+ <set num="EXPT125" rarity="token">tokens</set>
+ <reverse-related>The Depths Talk Loudly</reverse-related>
 </card>
 <card>
  <name>colorless Fractal Reflection 11PVR</name>
@@ -737,16 +382,220 @@
  <reverse-related>Urwrapir Matriarch</reverse-related>
 </card>
 <card>
- <name>colorless God Horror 44PTN</name>
+ <name>Beast Token WAW</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/3</pt>
+ <type>Token Creature — Beast</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="WAW114" rarity="token">tokens</set>
+ <reverse-related>Anything and Everything</reverse-related>
+ <reverse-related>Borderholt Herdcaller</reverse-related>
+ <reverse-related>Deepholt Encounter</reverse-related>
+ <reverse-related>Destructive Desire</reverse-related>
+ <reverse-related>Ilcan Entrancer</reverse-related>
+ <reverse-related>New Tensuo Calmkeeper</reverse-related>
+ <reverse-related>Numberless Procession</reverse-related>
+ <reverse-related>Worldsoul Ambassador</reverse-related>
+</card>
+<card>
+ <name>Story of a Dead Plane WAW</name>
+ <color>W</color>
+ <color>U</color>
+ <color>B</color>
+ <color>R</color>
+ <color>G</color>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>This enchantment is all colors. Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.”</text>
+ <token>1</token>
+ <set num="WAW27" rarity="token">tokens</set>
+ <reverse-related>Dhere, Preserver of Memories</reverse-related>
+</card>
+<card>
+ <name>Memory of Home WAW</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can't block, where X is its mana value. Do this only once on each of your turns.</text>
+ <token>1</token>
+ <set num="WAW12" rarity="token">tokens</set>
+ <reverse-related>Norr, Ajha's Lieutenant</reverse-related>
+</card>
+<card>
+ <name>Dragon Token WAW</name>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>5/5</pt>
+ <type>Token Creature — Dragon</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="WAW8" rarity="token">tokens</set>
+ <reverse-related>Starstruck Skitter</reverse-related>
+</card>
+<card>
+ <name>Demon Token WAW</name>
+ <color>B</color>
  <manacost></manacost>
  <cmc>0</cmc>
  <pt>4/4</pt>
- <type>Token Creature — God Horror</type>
+ <type>Token Creature — Demon</type>
  <tablerow>2</tablerow>
- <text>This creature can't block.</text>
+ <text>Flying This creature can't block.</text>
  <token>1</token>
- <set num="PTN272" rarity="token">tokens</set>
- <reverse-related>Cleric</reverse-related>
+ <set num="WAW125" rarity="token">tokens</set>
+ <reverse-related>Tenuous Partners</reverse-related>
+</card>
+<card>
+ <name>Cat Token VNM</name>
+ <color>W</color>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Enchantment Creature — Cat</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="VNM202" rarity="token">tokens</set>
+ <reverse-related>Avlod Bulwark</reverse-related>
+ <reverse-related>Gateway Guardian</reverse-related>
+ <reverse-related>Giant's Blade</reverse-related>
+ <reverse-related>Outlands Riftbearer</reverse-related>
+ <reverse-related>Rift Tender</reverse-related>
+ <reverse-related>Multaph's Respite's Spellbook</reverse-related>
+ <reverse-related>Subdued Rift</reverse-related>
+</card>
+<card>
+ <name>green and silver Icon VNM</name>
+ <color>I</color>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>X/X</pt>
+ <type>Token Enchantment Creature — Icon</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="VNM337" rarity="token">tokens</set>
+ <reverse-related>Impunity of Souls</reverse-related>
+ <reverse-related>Splendid Genesis</reverse-related>
+</card>
+<card>
+ <name>Multaph's Respite's Spellbook VNM</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Spellbook</type>
+ <tablerow>1</tablerow>
+ <text>Subdued Rift {W/B}| Skill Sorcery Create a 1/1 black and white Cat enchantment creature token. Warped Exploration {2}| Skill Sorcery Create a trace of a basic land of any type into your hand. Cut from Void {2}{U}| Skill Instant Scry 1, then draw a card.</text>
+ <token>1</token>
+ <set num="VNM339" rarity="bonus">tokens</set>
+ <reverse-related attach="transform">Multaph's Respite</reverse-related>
+</card>
+<card>
+ <name>white Nightmare 11ITD</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Nightmare</type>
+ <tablerow>2</tablerow>
+ <text>Lifelink This creature can't block.</text>
+ <token>1</token>
+ <set num="ITD182" rarity="token">tokens</set>
+ <reverse-related>Angel of the Forest</reverse-related>
+ <reverse-related count="2">Antisun's Domain</reverse-related>
+ <reverse-related count="2">Avaz, Moontouched Prince</reverse-related>
+ <reverse-related>Beacon Dreamer</reverse-related>
+ <reverse-related>Desolate Meeting</reverse-related>
+ <reverse-related count="2">Feast of Butterflies</reverse-related>
+ <reverse-related>Ghostspitter</reverse-related>
+ <reverse-related>Grasping Eternity</reverse-related>
+ <reverse-related>Illuminant Master</reverse-related>
+ <reverse-related count="3">Restlessness</reverse-related>
+ <reverse-related>Secrets of Radiance</reverse-related>
+</card>
+<card>
+ <name>colorless Faerie Horror 11ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Faerie Horror</type>
+ <tablerow>2</tablerow>
+ <text>Flying This creature can't block.</text>
+ <token>1</token>
+ <set num="ITD177" rarity="token">tokens</set>
+ <reverse-related>Beseech the Divine</reverse-related>
+ <reverse-related>Goddess of Puppet Strings</reverse-related>
+</card>
+<card>
+ <name>colorless Horror ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>★/★</pt>
+ <type>Creature — Horror</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="ITD178" rarity="token">tokens</set>
+ <reverse-related>Chimerism</reverse-related>
+</card>
+<card>
+ <name>Everywhere ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Land</type>
+ <tablerow>0</tablerow>
+ <text>This land has every basic land type.</text>
+ <token>1</token>
+ <set num="ITD183" rarity="token">tokens</set>
+ <reverse-related>Strange Wayfarer</reverse-related>
+</card>
+<card>
+ <name>colorless Insect 11ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Artifact Creature — Insect</type>
+ <tablerow>2</tablerow>
+ <text>Flying This creature can't block.</text>
+ <token>1</token>
+ <set num="ITD200" rarity="token">tokens</set>
+ <reverse-related>Symbiotic Host</reverse-related>
+</card>
+<card>
+ <name>Ringing Noise ITD</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays {1}.</text>
+ <token>1</token>
+ <set num="ITD179" rarity="token">tokens</set>
+ <reverse-related>The Ephemeral Piper</reverse-related>
+</card>
+<card>
+ <name>white Illusion 33ITD</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/3</pt>
+ <type>Token Creature — Illusion</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="ITD181" rarity="token">tokens</set>
+ <reverse-related>To be Forgotten in a Dream</reverse-related>
 </card>
 <card>
  <name>Ageless Caretaker WAW</name>
@@ -782,6 +631,30 @@
  <text>Flying</text>
  <token>1</token>
  <set num="PVR312" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>Black Wurm Token VNM</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wurm</type>
+ <tablerow>2</tablerow>
+ <text>Deathtouch</text>
+ <token>1</token>
+ <set num="VNM340" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>Blue Drake Token VNM</name>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Drake</type>
+ <tablerow>2</tablerow>
+ <text>Flying This can't block.</text>
+ <token>1</token>
+ <set num="VNM204" rarity="bonus">tokens</set>
 </card>
 <card>
  <name>Cloudeater Drake WAW</name>
@@ -833,9 +706,9 @@
  <color>U</color>
  <manacost>2U</manacost>
  <cmc>3</cmc>
- <type>Skill Instant</type>
+ <type>Trace Skill Instant</type>
  <tablerow>3</tablerow>
- <text>Scry 1, then draw a card.</text>
+ <text>Scry 1, then draw a card. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM224" rarity="bonus">tokens</set>
 </card>
@@ -911,9 +784,9 @@
  <color>U</color>
  <manacost>1G/U</manacost>
  <cmc>2</cmc>
- <type>Skill Sorcery</type>
+ <type>Trace Skill Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn.</text>
+ <text>Target creature gains vigilance and can't be blocked by creatures with power 2 or less until end of turn. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM191" rarity="bonus">tokens</set>
 </card>
@@ -951,16 +824,6 @@
  <set num="VNM208" rarity="bonus">tokens</set>
 </card>
 <card>
- <name>Foretell PTN</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Enchantment</type>
- <tablerow>1</tablerow>
- <text>When a card becomes foretold its foretell cost is its mana cost if it doesn't have one.  Lands can't have a cost and are played normally.</text>
- <token>1</token>
- <set num="PTN14" rarity="token">tokens</set>
-</card>
-<card>
  <name>Fracture of Divinity ITD ITD</name>
  <manacost>6</manacost>
  <cmc>6</cmc>
@@ -984,13 +847,25 @@
  <set num="WAW133" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Green Wurm Token VNM</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wurm</type>
+ <tablerow>2</tablerow>
+ <text>Reach</text>
+ <token>1</token>
+ <set num="VNM341" rarity="bonus">tokens</set>
+</card>
+<card>
  <name>Harsh Reprise VNM</name>
  <color>B</color>
  <manacost>B</manacost>
  <cmc>1</cmc>
- <type>Skill Instant</type>
+ <type>Trace Skill Instant</type>
  <tablerow>3</tablerow>
- <text>Each opponent loses 2 life.</text>
+ <text>Each opponent loses 2 life. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM209" rarity="bonus">tokens</set>
 </card>
@@ -998,11 +873,11 @@
  <name>Hollow Graze VNM</name>
  <color>U</color>
  <color>B</color>
- <manacost>1U/B</manacost>
- <cmc>2</cmc>
- <type>Skill Instant</type>
+ <manacost>U/B</manacost>
+ <cmc>1</cmc>
+ <type>Trace Skill Instant</type>
  <tablerow>3</tablerow>
- <text>Target creature gets -2/-0 until end of turn. Cast only outside of combat.</text>
+ <text>Target creature gets -2/-0 until end of turn. Cast only outside of combat. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM190" rarity="bonus">tokens</set>
 </card>
@@ -1019,7 +894,7 @@
  <set num="AKT242" rarity="bonus">tokens</set>
 </card>
 <card>
- <name>Icebound Reinforcements VNM</name>
+ <name>Icebound Reinforcements Token VNM</name>
  <color>G</color>
  <color>U</color>
  <manacost>1G/UG/U</manacost>
@@ -1027,7 +902,7 @@
  <pt>2/2</pt>
  <type>Token Creature — Human Scout</type>
  <tablerow>2</tablerow>
- <text>Whenever you cast a noncreature spell, put a +1/+1 counter on Icebound Reinforcements. {1}{G/U}{G/U}, Remove three +1/+1 counters from Icebound Reinforcements: Create a token that's a copy of Icebound Reinforcements.</text>
+ <text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature. {1}{G/U}{G/U}, Remove three +1/+1 counters from this creature: Create a token that's a copy of this creature.</text>
  <token>1</token>
  <set num="VNM199" rarity="bonus">tokens</set>
 </card>
@@ -1061,9 +936,9 @@
  <color>R</color>
  <manacost>1R</manacost>
  <cmc>2</cmc>
- <type>Skill Sorcery</type>
+ <type>Trace Skill Sorcery</type>
  <tablerow>3</tablerow>
- <text>Exile the top card of your library. You may play it this turn.</text>
+ <text>Exile the top card of your library. You may play it this turn. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM194" rarity="bonus">tokens</set>
 </card>
@@ -1150,9 +1025,9 @@
  <color>W</color>
  <manacost>G/W</manacost>
  <cmc>1</cmc>
- <type>Skill Instant</type>
+ <type>Trace Skill Instant</type>
  <tablerow>3</tablerow>
- <text>Put a +1/+1 counter on target creature you control. Cast only outside of combat.</text>
+ <text>Put a +1/+1 counter on target creature you control. Cast only outside of combat. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM197" rarity="bonus">tokens</set>
 </card>
@@ -1262,9 +1137,9 @@
  <color>R</color>
  <manacost>R</manacost>
  <cmc>1</cmc>
- <type>Skill Sorcery</type>
+ <type>Trace Skill Sorcery</type>
  <tablerow>3</tablerow>
- <text>Target creature you control gets +1/+0 and gains first strike until end of turn.</text>
+ <text>Target creature you control gets +1/+0 and gains first strike until end of turn. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM193" rarity="bonus">tokens</set>
 </card>
@@ -1283,11 +1158,11 @@
  <name>Readied Assault VNM</name>
  <color>R</color>
  <color>W</color>
- <manacost>3R/W</manacost>
- <cmc>4</cmc>
- <type>Skill Sorcery</type>
+ <manacost>2R/W</manacost>
+ <cmc>3</cmc>
+ <type>Trace Skill Sorcery</type>
  <tablerow>3</tablerow>
- <text>Until end of turn, creatures you control get +1/+1 and can attack despite having defender.</text>
+ <text>Until end of turn, creatures you control get +1/+1 and can attack as though they didn't have defender. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM196" rarity="bonus">tokens</set>
 </card>
@@ -1302,6 +1177,18 @@
  <text>*(This is the creature type chosen as it was created.)*</text>
  <token>1</token>
  <set num="AKT240" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>Red Wurm Token VNM</name>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wurm</type>
+ <tablerow>2</tablerow>
+ <text>Haste</text>
+ <token>1</token>
+ <set num="VNM342" rarity="bonus">tokens</set>
 </card>
 <card>
  <name>Redefinition WAW</name>
@@ -1319,9 +1206,9 @@
  <name>Reformed Rift VNM</name>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Land</type>
+ <type>Trace Land</type>
  <tablerow>0</tablerow>
- <text>*(Conjured by Raze the Clanless.)* {T}: Add one mana of any color.</text>
+ <text>*(Created by Raze the Clanless.)* {T}: Add one mana of any color.</text>
  <token>1</token>
  <set num="VNM187" rarity="bonus">tokens</set>
 </card>
@@ -1331,9 +1218,9 @@
  <color>U</color>
  <manacost>1W/U</manacost>
  <cmc>2</cmc>
- <type>Skill Instant</type>
+ <type>Trace Skill Instant</type>
  <tablerow>3</tablerow>
- <text>Tap target non-Aura enchantment you control. It also becomes a 3/3 creature. Cast only outside of combat.</text>
+ <text>Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to its other types. Cast only outside of combat. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM195" rarity="bonus">tokens</set>
 </card>
@@ -1389,7 +1276,7 @@
  <color>G</color>
  <manacost>1B/G</manacost>
  <cmc>2</cmc>
- <type>Enchantment</type>
+ <type>Trace Enchantment</type>
  <tablerow>1</tablerow>
  <text>Enchant land Enchanted land has “{T}: Add one mana of any color.”</text>
  <token>1</token>
@@ -1399,11 +1286,11 @@
  <name>Subdued Rift VNM</name>
  <color>W</color>
  <color>B</color>
- <manacost>1W/B</manacost>
- <cmc>2</cmc>
- <type>Skill Sorcery</type>
+ <manacost>W/B</manacost>
+ <cmc>1</cmc>
+ <type>Trace Skill Sorcery</type>
  <tablerow>3</tablerow>
- <text>Create a 1/1 black and white Cat enchantment creature token.</text>
+ <text>Create a 1/1 black and white Cat enchantment creature token. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM189" rarity="bonus">tokens</set>
 </card>
@@ -1421,9 +1308,9 @@
  <name>Voidstone Shard VNM</name>
  <manacost>2</manacost>
  <cmc>2</cmc>
- <type>Enchantment</type>
+ <type>Trace Enchantment</type>
  <tablerow>1</tablerow>
- <text>When this enters, scry 2.</text>
+ <text>When this enchantment enters, scry 2.</text>
  <token>1</token>
  <set num="VNM186" rarity="bonus">tokens</set>
 </card>
@@ -1443,9 +1330,9 @@
  <name>Warped Exploration VNM</name>
  <manacost>2</manacost>
  <cmc>2</cmc>
- <type>Skill Sorcery</type>
+ <type>Trace Skill Sorcery</type>
  <tablerow>3</tablerow>
- <text>Trace a basic land of any type into your hand.</text>
+ <text>Create a trace of a basic land of any type into your hand. *(Traces are cards that become copies when they enter a public zone.)*</text>
  <token>1</token>
  <set num="VNM203" rarity="bonus">tokens</set>
 </card>
@@ -1460,6 +1347,30 @@
  <text></text>
  <token>1</token>
  <set num="AKT245" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>White Drake Token VNM</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Drake</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="VNM198" rarity="bonus">tokens</set>
+</card>
+<card>
+ <name>White Wurm Token VNM</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Wurm</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="VNM343" rarity="bonus">tokens</set>
 </card>
 <card>
  <name>Wonder Archon Token WAW</name>
