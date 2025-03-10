@@ -2,15 +2,20 @@
 <cockatrice_carddatabase version="3">
 <cards>
 <card>
- <name>House AKT</name>
+ <name>Insect Plant Token EXPT</name>
+ <color>I</color>
  <manacost></manacost>
  <cmc>0</cmc>
- <type>Artifact — Equipment</type>
- <tablerow>1</tablerow>
- <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
+ <pt>2/2</pt>
+ <type>Token Creature — Insect Plant</type>
+ <tablerow>2</tablerow>
+ <text>Decayed. *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
  <token>1</token>
- <set num="AKT267" rarity="bonus">tokens</set>
- <reverse-related>Accommodation</reverse-related>
+ <set num="EXPT113" rarity="token">tokens</set>
+ <reverse-related>Algael-leael</reverse-related>
+ <reverse-related count="2">Scholigaunt</reverse-related>
+ <reverse-related>Sryyn Spawner</reverse-related>
+ <reverse-related>Xylem Attendant</reverse-related>
 </card>
 <card>
  <name>Embraced Cards AKT</name>
@@ -21,6 +26,7 @@
  <text>*(Put your embraced cards here. They're in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)*</text>
  <token>1</token>
  <set num="AKT239" rarity="bonus">tokens</set>
+ <reverse-related>Eschewer of Form</reverse-related>
  <reverse-related>ArkaiIxajaprataKgxrajatajex</reverse-related>
  <reverse-related>Atir, Heart of the Argent Court</reverse-related>
  <reverse-related>Callwolf Replica</reverse-related>
@@ -70,22 +76,43 @@
  <reverse-related>Waste Management</reverse-related>
  <reverse-related>Wind Tunnels</reverse-related>
  <reverse-related>Zeitgeist's Judgment</reverse-related>
- <reverse-related>Eschewer of Form</reverse-related>
 </card>
 <card>
- <name>red Incarnation 11AKT</name>
- <color>R</color>
+ <name>Wall Token EXPT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>0/3</pt>
+ <type>Token Artifact Creature — Wall</type>
+ <tablerow>2</tablerow>
+ <text>Defender *(This creature can't attack.)*</text>
+ <token>1</token>
+ <set num="EXPT119" rarity="token">tokens</set>
+ <reverse-related>Hopeless Summit</reverse-related>
+</card>
+<card>
+ <name>Shapeshifter Token EXPT</name>
  <manacost></manacost>
  <cmc>0</cmc>
  <pt>1/1</pt>
- <type>Token Creature — Incarnation</type>
+ <type>Token Creature — Shapeshifter</type>
  <tablerow>2</tablerow>
- <text>Flying</text>
+ <text>Changeling *(This card is every creature type.)*</text>
  <token>1</token>
- <set num="AKT243" rarity="bonus">tokens</set>
- <reverse-related>Atraja the Mutable</reverse-related>
- <reverse-related>Ineffable Spawning</reverse-related>
- <reverse-related>Zeitgeist's Judgment</reverse-related>
+ <set num="EXPT136" rarity="token">tokens</set>
+ <reverse-related>Lost Cause</reverse-related>
+</card>
+<card>
+ <name>Liberated Dragon AKT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/2</pt>
+ <type>Token Creature — Dragon</type>
+ <tablerow>2</tablerow>
+ <text>*(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can't be transformed.)*</text>
+ <token>1</token>
+ <set num="AKT78" rarity="bonus">tokens</set>
+ <reverse-related>Sealed Deepborn</reverse-related>
+ <reverse-related>Liberated Dragon</reverse-related>
 </card>
 <card>
  <name>Can Be Cast From Exile EXPT</name>
@@ -96,6 +123,7 @@
  <text>*(These cards can be cast from exile.)*</text>
  <token>1</token>
  <set num="EXPT146" rarity="token">tokens</set>
+ <reverse-related>Shrouded Pathcensor</reverse-related>
  <reverse-related>Callwolf Chanter</reverse-related>
  <reverse-related>Skarrgsong</reverse-related>
  <reverse-related>Cunning Qualiaform</reverse-related>
@@ -104,6 +132,13 @@
  <reverse-related>Ilx, Mothweft Ambassador</reverse-related>
  <reverse-related>Swiftpaw Striker</reverse-related>
  <reverse-related>Swiftmind Sage</reverse-related>
+ <reverse-related>Aggravator of Herds</reverse-related>
+ <reverse-related>Davriel's Dealbroker</reverse-related>
+ <reverse-related>Mad Summoner</reverse-related>
+ <reverse-related>Overwhelming Consumption</reverse-related>
+ <reverse-related>Rattler's Crusade</reverse-related>
+ <reverse-related>Spitting Hellfire</reverse-related>
+ <reverse-related>Unhinged Giant</reverse-related>
  <reverse-related>Daring General</reverse-related>
  <reverse-related>Death's Sting Captain </reverse-related>
  <reverse-related>Fervent Demagogue</reverse-related>
@@ -113,7 +148,6 @@
  <reverse-related>Plaskett Trickster</reverse-related>
  <reverse-related>Truetower Lookout</reverse-related>
  <reverse-related>William's Epiphany</reverse-related>
- <reverse-related>Shrouded Pathcensor</reverse-related>
  <reverse-related>Ashiok, Dream Feaster</reverse-related>
  <reverse-related>Celestial Realm</reverse-related>
  <reverse-related>Cursed Range</reverse-related>
@@ -140,17 +174,6 @@
  <reverse-related>Ignus Rites</reverse-related>
  <reverse-related>Reshaping Phoenix</reverse-related>
  <reverse-related>Unlucky Witness</reverse-related>
- <reverse-related>Aggravator of Herds</reverse-related>
- <reverse-related>Davriel's Dealbroker</reverse-related>
- <reverse-related>Mad Summoner</reverse-related>
- <reverse-related>Overwhelming Consumption</reverse-related>
- <reverse-related>Rattler's Crusade</reverse-related>
- <reverse-related>Spitting Hellfire</reverse-related>
- <reverse-related>Unhinged Giant</reverse-related>
- <reverse-related>Manuela, the Known</reverse-related>
- <reverse-related>Ritz, Queen of Thieves</reverse-related>
- <reverse-related>Scrappy Wisp-Speaker</reverse-related>
- <reverse-related>Sunset Study</reverse-related>
  <reverse-related>Ray Tracing</reverse-related>
  <reverse-related>Aspiring Mount</reverse-related>
  <reverse-related>Mordel Drillmaster</reverse-related>
@@ -159,8 +182,127 @@
  <reverse-related>Outcast Mentor</reverse-related>
  <reverse-related>Pinnacle of Vinimroth</reverse-related>
  <reverse-related>Unexpected Discovery</reverse-related>
+ <reverse-related>Manuela, the Known</reverse-related>
+ <reverse-related>Ritz, Queen of Thieves</reverse-related>
+ <reverse-related>Scrappy Wisp-Speaker</reverse-related>
+ <reverse-related>Sunset Study</reverse-related>
  <reverse-related>Embraced Cards</reverse-related>
  <reverse-related>In the Moment</reverse-related>
+</card>
+<card>
+ <name>silver Horror 22EXPT</name>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Horror</type>
+ <tablerow>2</tablerow>
+ <text>Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
+ <token>1</token>
+ <set num="EXPT81" rarity="token">tokens</set>
+ <reverse-related>The Depths Talk Loudly</reverse-related>
+</card>
+<card>
+ <name>Trace Reminder VNM</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Reminder</type>
+ <tablerow>1</tablerow>
+ <text>Traces are copies of the spell that they traced in a non-public zone *(Hand, Library, and Sanctum)*. When played or cast, they become tokens.</text>
+ <token>1</token>
+ <set num="VNM344" rarity="token">tokens</set>
+ <reverse-related>Unbothered Alchemist</reverse-related>
+ <reverse-related>Avakin Avenger</reverse-related>
+ <reverse-related>Avakin Hazeweaver</reverse-related>
+ <reverse-related>Avakin Mentor</reverse-related>
+ <reverse-related>Avakin Watcher</reverse-related>
+ <reverse-related>Avlod Bulwark</reverse-related>
+ <reverse-related>Breaking the Mold</reverse-related>
+ <reverse-related>Bruin Mentor</reverse-related>
+ <reverse-related>Chromaboon Blade</reverse-related>
+ <reverse-related>Dromencal's Respite</reverse-related>
+ <reverse-related>Due Dismissal</reverse-related>
+ <reverse-related>Dust to Life</reverse-related>
+ <reverse-related>Eternity Siphon</reverse-related>
+ <reverse-related>Explorer's Compass</reverse-related>
+ <reverse-related>Fadove Drillmaster</reverse-related>
+ <reverse-related>Fadove Tracker</reverse-related>
+ <reverse-related>Fadove Trainer</reverse-related>
+ <reverse-related>Fadove Willshaper</reverse-related>
+ <reverse-related>Flaming Iron</reverse-related>
+ <reverse-related>Frontline Assaulter</reverse-related>
+ <reverse-related>Gateway Guardian</reverse-related>
+ <reverse-related>Giant's Blade</reverse-related>
+ <reverse-related>Guardian Roost</reverse-related>
+ <reverse-related>Kaln-Ocean Cloak</reverse-related>
+ <reverse-related>Keeper of Calm</reverse-related>
+ <reverse-related>Khestri, Fadove Clanleader</reverse-related>
+ <reverse-related>Kier, Acolyte of Avlod Respite</reverse-related>
+ <reverse-related>Malevolent Naginata</reverse-related>
+ <reverse-related>Minotaur Outlander</reverse-related>
+ <reverse-related>Mordel Drillmaster</reverse-related>
+ <reverse-related>Mordel Excursionist</reverse-related>
+ <reverse-related>Mordel Patrol</reverse-related>
+ <reverse-related>Mordel Warrior</reverse-related>
+ <reverse-related>Multaph, Riftborn God</reverse-related>
+ <reverse-related>Multaph's Respite</reverse-related>
+ <reverse-related>Multaph's Riftwarden</reverse-related>
+ <reverse-related>Outlands Diviner</reverse-related>
+ <reverse-related>Outlands Protector</reverse-related>
+ <reverse-related>Outlands Respite</reverse-related>
+ <reverse-related>Outlands Riftbearer</reverse-related>
+ <reverse-related>Outlands Wanderer</reverse-related>
+ <reverse-related>Pinnacle of Vinimroth</reverse-related>
+ <reverse-related>Powerstone Claw</reverse-related>
+ <reverse-related>Prismatism</reverse-related>
+ <reverse-related>Purge the Clanless</reverse-related>
+ <reverse-related>Razorshell Drake</reverse-related>
+ <reverse-related>Remnant Awakener</reverse-related>
+ <reverse-related>Rift Burn</reverse-related>
+ <reverse-related>Rift Tender</reverse-related>
+ <reverse-related>Riftborn Flames</reverse-related>
+ <reverse-related>Rip to Tomorrow</reverse-related>
+ <reverse-related>Ripped into Eternity</reverse-related>
+ <reverse-related>Rippling Crustacean</reverse-related>
+ <reverse-related>Rush Down</reverse-related>
+ <reverse-related>Sage of Truths</reverse-related>
+ <reverse-related>Scout's Bow</reverse-related>
+ <reverse-related>Storm Bearer</reverse-related>
+ <reverse-related>Suffused Memories</reverse-related>
+ <reverse-related>Tofnet Riftstalker</reverse-related>
+ <reverse-related>Triumphant Riftcaller</reverse-related>
+ <reverse-related>Warforged Herald</reverse-related>
+ <reverse-related>Waterspout</reverse-related>
+ <reverse-related>Windshaper Drake</reverse-related>
+ <reverse-related>Wings of New Horizons</reverse-related>
+ <reverse-related>Multaph's Respite's Spellbook</reverse-related>
+ <reverse-related>Warped Exploration</reverse-related>
+</card>
+<card>
+ <name>House AKT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Artifact — Equipment</type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
+ <token>1</token>
+ <set num="AKT267" rarity="bonus">tokens</set>
+ <reverse-related>Accommodation</reverse-related>
+</card>
+<card>
+ <name>red Incarnation 11AKT</name>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Incarnation</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="AKT243" rarity="bonus">tokens</set>
+ <reverse-related>Atraja the Mutable</reverse-related>
+ <reverse-related>Ineffable Spawning</reverse-related>
+ <reverse-related>Zeitgeist's Judgment</reverse-related>
 </card>
 <card>
  <name>white Soldier 11AKT</name>
@@ -238,6 +380,108 @@
  <token>1</token>
  <set num="AKT139" rarity="bonus">tokens</set>
  <reverse-related>Spokesman of the Mothweft</reverse-related>
+</card>
+<card>
+ <name>black Skeleton 11HEL</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Skeleton</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="HEL234" rarity="token">tokens</set>
+ <reverse-related>Aged Warmage</reverse-related>
+ <reverse-related>Bemused Gorger</reverse-related>
+ <reverse-related>Blazing Raid</reverse-related>
+ <reverse-related count="2">Crumbling Monstrosity</reverse-related>
+ <reverse-related count="2">Hellemental</reverse-related>
+ <reverse-related>Processing Revenant</reverse-related>
+ <reverse-related>Rambunctious Bonewalkers</reverse-related>
+ <reverse-related count="3">Ransack the Tombs</reverse-related>
+ <reverse-related>Remains of Despair</reverse-related>
+ <reverse-related>Salvaged Legionnaire</reverse-related>
+ <reverse-related>Skeletonfy</reverse-related>
+</card>
+<card>
+ <name>green Skeleton Hydra 11HEL</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Skeleton Hydra</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="HEL243" rarity="token">tokens</set>
+ <reverse-related count="X">Bonemarrow Hydra</reverse-related>
+</card>
+<card>
+ <name>white Zombie 22HEL</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Zombie</type>
+ <tablerow>2</tablerow>
+ <text>Lifelink Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
+ <token>1</token>
+ <set num="HEL232" rarity="token">tokens</set>
+ <reverse-related>Castle Salus's Catacombs</reverse-related>
+ <reverse-related>Crypt Defenders</reverse-related>
+ <reverse-related>Fides, Bloodied Confidant</reverse-related>
+ <reverse-related>Foreboding Milestone</reverse-related>
+ <reverse-related>Phylactery Crafter</reverse-related>
+ <reverse-related>Return for Duty</reverse-related>
+ <reverse-related>Rotten Insight</reverse-related>
+ <reverse-related count="2">Saintly Remains</reverse-related>
+ <reverse-related>Shamble En Masse</reverse-related>
+</card>
+<card>
+ <name>green Spider 21HEL</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/1</pt>
+ <type>Token Creature — Spider</type>
+ <tablerow>2</tablerow>
+ <text>Reach</text>
+ <token>1</token>
+ <set num="HEL235" rarity="token">tokens</set>
+ <reverse-related>Eafem, Lethal Arachne</reverse-related>
+ <reverse-related>Nightmare Webbing</reverse-related>
+ <reverse-related>Skittering Host</reverse-related>
+ <reverse-related>Skittering Skullsifter</reverse-related>
+</card>
+<card>
+ <name>blue Merfolk Horror 11HEL</name>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Merfolk Horror</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="HEL233" rarity="token">tokens</set>
+ <reverse-related>Faber's Hatching</reverse-related>
+ <reverse-related count="2">Ghastly Tide</reverse-related>
+ <reverse-related count="2">Gigas Screamer</reverse-related>
+ <reverse-related count="2">Unidentifiable Mass</reverse-related>
+</card>
+<card>
+ <name>white Vampire Soldier 31HEL</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/1</pt>
+ <type>Token Creature — Vampire Soldier</type>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+ <token>1</token>
+ <set num="HEL262" rarity="token">tokens</set>
+ <reverse-related>Sorin, Vengeful Sangrablade</reverse-related>
 </card>
 <card>
  <name>blue Scout 11HOD</name>
@@ -503,148 +747,6 @@
  <reverse-related>Switching Shifts</reverse-related>
 </card>
 <card>
- <name>Insect Plant Token EXPT</name>
- <color>I</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Insect Plant</type>
- <tablerow>2</tablerow>
- <text>Decayed. *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
- <token>1</token>
- <set num="EXPT113" rarity="token">tokens</set>
- <reverse-related>Algael-leael</reverse-related>
- <reverse-related count="2">Scholigaunt</reverse-related>
- <reverse-related>Sryyn Spawner</reverse-related>
- <reverse-related>Xylem Attendant</reverse-related>
-</card>
-<card>
- <name>Wall Token EXPT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>0/3</pt>
- <type>Token Artifact Creature — Wall</type>
- <tablerow>2</tablerow>
- <text>Defender *(This creature can't attack.)*</text>
- <token>1</token>
- <set num="EXPT119" rarity="token">tokens</set>
- <reverse-related>Hopeless Summit</reverse-related>
-</card>
-<card>
- <name>Shapeshifter Token EXPT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Shapeshifter</type>
- <tablerow>2</tablerow>
- <text>Changeling *(This card is every creature type.)*</text>
- <token>1</token>
- <set num="EXPT136" rarity="token">tokens</set>
- <reverse-related>Lost Cause</reverse-related>
-</card>
-<card>
- <name>Liberated Dragon AKT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/2</pt>
- <type>Token Creature — Dragon</type>
- <tablerow>2</tablerow>
- <text>*(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can't be transformed.)*</text>
- <token>1</token>
- <set num="AKT78" rarity="bonus">tokens</set>
- <reverse-related>Sealed Deepborn</reverse-related>
- <reverse-related>Liberated Dragon</reverse-related>
-</card>
-<card>
- <name>silver Horror 22EXPT</name>
- <color>I</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Horror</type>
- <tablerow>2</tablerow>
- <text>Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
- <token>1</token>
- <set num="EXPT81" rarity="token">tokens</set>
- <reverse-related>The Depths Talk Loudly</reverse-related>
-</card>
-<card>
- <name>Trace Reminder VNM</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Reminder</type>
- <tablerow>1</tablerow>
- <text>Traces are copies of the spell that they traced in a non-public zone *(Hand, Library, and Sanctum)*. When played or cast, they become tokens.</text>
- <token>1</token>
- <set num="VNM344" rarity="token">tokens</set>
- <reverse-related>Unbothered Alchemist</reverse-related>
- <reverse-related>Avakin Avenger</reverse-related>
- <reverse-related>Avakin Hazeweaver</reverse-related>
- <reverse-related>Avakin Mentor</reverse-related>
- <reverse-related>Avakin Watcher</reverse-related>
- <reverse-related>Avlod Bulwark</reverse-related>
- <reverse-related>Breaking the Mold</reverse-related>
- <reverse-related>Bruin Mentor</reverse-related>
- <reverse-related>Chromaboon Blade</reverse-related>
- <reverse-related>Dromencal's Respite</reverse-related>
- <reverse-related>Due Dismissal</reverse-related>
- <reverse-related>Dust to Life</reverse-related>
- <reverse-related>Eternity Siphon</reverse-related>
- <reverse-related>Explorer's Compass</reverse-related>
- <reverse-related>Fadove Drillmaster</reverse-related>
- <reverse-related>Fadove Tracker</reverse-related>
- <reverse-related>Fadove Trainer</reverse-related>
- <reverse-related>Fadove Willshaper</reverse-related>
- <reverse-related>Flaming Iron</reverse-related>
- <reverse-related>Frontline Assaulter</reverse-related>
- <reverse-related>Gateway Guardian</reverse-related>
- <reverse-related>Giant's Blade</reverse-related>
- <reverse-related>Guardian Roost</reverse-related>
- <reverse-related>Kaln-Ocean Cloak</reverse-related>
- <reverse-related>Keeper of Calm</reverse-related>
- <reverse-related>Khestri, Fadove Clanleader</reverse-related>
- <reverse-related>Kier, Acolyte of Avlod Respite</reverse-related>
- <reverse-related>Malevolent Naginata</reverse-related>
- <reverse-related>Minotaur Outlander</reverse-related>
- <reverse-related>Mordel Drillmaster</reverse-related>
- <reverse-related>Mordel Excursionist</reverse-related>
- <reverse-related>Mordel Patrol</reverse-related>
- <reverse-related>Mordel Warrior</reverse-related>
- <reverse-related>Multaph, Riftborn God</reverse-related>
- <reverse-related>Multaph's Respite</reverse-related>
- <reverse-related>Multaph's Riftwarden</reverse-related>
- <reverse-related>Outlands Diviner</reverse-related>
- <reverse-related>Outlands Protector</reverse-related>
- <reverse-related>Outlands Respite</reverse-related>
- <reverse-related>Outlands Riftbearer</reverse-related>
- <reverse-related>Outlands Wanderer</reverse-related>
- <reverse-related>Pinnacle of Vinimroth</reverse-related>
- <reverse-related>Powerstone Claw</reverse-related>
- <reverse-related>Prismatism</reverse-related>
- <reverse-related>Purge the Clanless</reverse-related>
- <reverse-related>Razorshell Drake</reverse-related>
- <reverse-related>Remnant Awakener</reverse-related>
- <reverse-related>Rift Burn</reverse-related>
- <reverse-related>Rift Tender</reverse-related>
- <reverse-related>Riftborn Flames</reverse-related>
- <reverse-related>Rip to Tomorrow</reverse-related>
- <reverse-related>Ripped into Eternity</reverse-related>
- <reverse-related>Rippling Crustacean</reverse-related>
- <reverse-related>Rush Down</reverse-related>
- <reverse-related>Sage of Truths</reverse-related>
- <reverse-related>Scout's Bow</reverse-related>
- <reverse-related>Storm Bearer</reverse-related>
- <reverse-related>Suffused Memories</reverse-related>
- <reverse-related>Tofnet Riftstalker</reverse-related>
- <reverse-related>Triumphant Riftcaller</reverse-related>
- <reverse-related>Warforged Herald</reverse-related>
- <reverse-related>Waterspout</reverse-related>
- <reverse-related>Windshaper Drake</reverse-related>
- <reverse-related>Wings of New Horizons</reverse-related>
- <reverse-related>Multaph's Respite's Spellbook</reverse-related>
- <reverse-related>Warped Exploration</reverse-related>
-</card>
-<card>
  <name>white Nightmare 11ITD</name>
  <color>W</color>
  <manacost></manacost>
@@ -860,183 +962,6 @@
  <reverse-related count="X">The Museum of Worms</reverse-related>
 </card>
 <card>
- <name>black Skeleton 11HEL</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Skeleton</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HEL234" rarity="token">tokens</set>
- <reverse-related>Aged Warmage</reverse-related>
- <reverse-related>Bemused Gorger</reverse-related>
- <reverse-related>Blazing Raid</reverse-related>
- <reverse-related count="2">Crumbling Monstrosity</reverse-related>
- <reverse-related count="2">Hellemental</reverse-related>
- <reverse-related>Processing Revenant</reverse-related>
- <reverse-related>Rambunctious Bonewalkers</reverse-related>
- <reverse-related count="3">Ransack the Tombs</reverse-related>
- <reverse-related>Remains of Despair</reverse-related>
- <reverse-related>Salvaged Legionnaire</reverse-related>
- <reverse-related>Skeletonfy</reverse-related>
-</card>
-<card>
- <name>green Skeleton Hydra 11HEL</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Skeleton Hydra</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HEL243" rarity="token">tokens</set>
- <reverse-related count="X">Bonemarrow Hydra</reverse-related>
-</card>
-<card>
- <name>white Zombie 22HEL</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Zombie</type>
- <tablerow>2</tablerow>
- <text>Lifelink Decayed *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
- <token>1</token>
- <set num="HEL232" rarity="token">tokens</set>
- <reverse-related>Castle Salus's Catacombs</reverse-related>
- <reverse-related>Crypt Defenders</reverse-related>
- <reverse-related>Fides, Bloodied Confidant</reverse-related>
- <reverse-related>Foreboding Milestone</reverse-related>
- <reverse-related>Phylactery Crafter</reverse-related>
- <reverse-related>Return for Duty</reverse-related>
- <reverse-related>Rotten Insight</reverse-related>
- <reverse-related count="2">Saintly Remains</reverse-related>
- <reverse-related>Shamble En Masse</reverse-related>
-</card>
-<card>
- <name>green Spider 21HEL</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>2/1</pt>
- <type>Token Creature — Spider</type>
- <tablerow>2</tablerow>
- <text>Reach</text>
- <token>1</token>
- <set num="HEL235" rarity="token">tokens</set>
- <reverse-related>Eafem, Lethal Arachne</reverse-related>
- <reverse-related>Nightmare Webbing</reverse-related>
- <reverse-related>Skittering Host</reverse-related>
- <reverse-related>Skittering Skullsifter</reverse-related>
-</card>
-<card>
- <name>blue Merfolk Horror 11HEL</name>
- <color>U</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Merfolk Horror</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="HEL233" rarity="token">tokens</set>
- <reverse-related>Faber's Hatching</reverse-related>
- <reverse-related count="2">Ghastly Tide</reverse-related>
- <reverse-related count="2">Gigas Screamer</reverse-related>
- <reverse-related count="2">Unidentifiable Mass</reverse-related>
-</card>
-<card>
- <name>white Vampire Soldier 31HEL</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/1</pt>
- <type>Token Creature — Vampire Soldier</type>
- <tablerow>2</tablerow>
- <text>Lifelink</text>
- <token>1</token>
- <set num="HEL262" rarity="token">tokens</set>
- <reverse-related>Sorin, Vengeful Sangrablade</reverse-related>
-</card>
-<card>
- <name>Beast Token WAW</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/3</pt>
- <type>Token Creature — Beast</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="WAW114" rarity="token">tokens</set>
- <reverse-related>Anything and Everything</reverse-related>
- <reverse-related>Borderholt Herdcaller</reverse-related>
- <reverse-related>Deepholt Encounter</reverse-related>
- <reverse-related>Destructive Desire</reverse-related>
- <reverse-related>Ilcan Entrancer</reverse-related>
- <reverse-related>New Tensuo Calmkeeper</reverse-related>
- <reverse-related>Numberless Procession</reverse-related>
- <reverse-related>Worldsoul Ambassador</reverse-related>
-</card>
-<card>
- <name>Story of a Dead Plane WAW</name>
- <color>W</color>
- <color>U</color>
- <color>B</color>
- <color>R</color>
- <color>G</color>
- <color>I</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Enchantment</type>
- <tablerow>1</tablerow>
- <text>This enchantment is all colors. Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.”</text>
- <token>1</token>
- <set num="WAW27" rarity="token">tokens</set>
- <reverse-related>Dhere, Preserver of Memories</reverse-related>
-</card>
-<card>
- <name>Memory of Home WAW</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Enchantment</type>
- <tablerow>1</tablerow>
- <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can't block, where X is its mana value. Do this only once on each of your turns.</text>
- <token>1</token>
- <set num="WAW12" rarity="token">tokens</set>
- <reverse-related>Norr, Ajha's Lieutenant</reverse-related>
-</card>
-<card>
- <name>Dragon Token WAW</name>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>5/5</pt>
- <type>Token Creature — Dragon</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="WAW8" rarity="token">tokens</set>
- <reverse-related>Starstruck Skitter</reverse-related>
-</card>
-<card>
- <name>Demon Token WAW</name>
- <color>B</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>4/4</pt>
- <type>Token Creature — Demon</type>
- <tablerow>2</tablerow>
- <text>Flying This creature can't block.</text>
- <token>1</token>
- <set num="WAW125" rarity="token">tokens</set>
- <reverse-related>Tenuous Partners</reverse-related>
-</card>
-<card>
  <name>colorless Fractal Reflection 11PVR</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -1183,6 +1108,81 @@
  <token>1</token>
  <set num="VNM339" rarity="bonus">tokens</set>
  <reverse-related attach="transform">Multaph's Respite</reverse-related>
+</card>
+<card>
+ <name>Beast Token WAW</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/3</pt>
+ <type>Token Creature — Beast</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="WAW114" rarity="token">tokens</set>
+ <reverse-related>Anything and Everything</reverse-related>
+ <reverse-related>Borderholt Herdcaller</reverse-related>
+ <reverse-related>Deepholt Encounter</reverse-related>
+ <reverse-related>Destructive Desire</reverse-related>
+ <reverse-related>Ilcan Entrancer</reverse-related>
+ <reverse-related>New Tensuo Calmkeeper</reverse-related>
+ <reverse-related>Numberless Procession</reverse-related>
+ <reverse-related>Worldsoul Ambassador</reverse-related>
+</card>
+<card>
+ <name>Story of a Dead Plane WAW</name>
+ <color>W</color>
+ <color>U</color>
+ <color>B</color>
+ <color>R</color>
+ <color>G</color>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>This enchantment is all colors. Sacrifice this enchantment: Until end of turn, lands you control gain “{T}: Add one mana of any color.”</text>
+ <token>1</token>
+ <set num="WAW27" rarity="token">tokens</set>
+ <reverse-related>Dhere, Preserver of Memories</reverse-related>
+</card>
+<card>
+ <name>Memory of Home WAW</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever a creature you control dies, you may create an X/X black Spirit creature token that can't block, where X is its mana value. Do this only once on each of your turns.</text>
+ <token>1</token>
+ <set num="WAW12" rarity="token">tokens</set>
+ <reverse-related>Norr, Ajha's Lieutenant</reverse-related>
+</card>
+<card>
+ <name>Dragon Token WAW</name>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>5/5</pt>
+ <type>Token Creature — Dragon</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="WAW8" rarity="token">tokens</set>
+ <reverse-related>Starstruck Skitter</reverse-related>
+</card>
+<card>
+ <name>Demon Token WAW</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>4/4</pt>
+ <type>Token Creature — Demon</type>
+ <tablerow>2</tablerow>
+ <text>Flying This creature can't block.</text>
+ <token>1</token>
+ <set num="WAW125" rarity="token">tokens</set>
+ <reverse-related>Tenuous Partners</reverse-related>
 </card>
 <card>
  <name>colorless God Horror 44PTN</name>
