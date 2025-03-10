@@ -2,20 +2,15 @@
 <cockatrice_carddatabase version="3">
 <cards>
 <card>
- <name>Insect Plant Token EXPT</name>
- <color>I</color>
+ <name>House AKT</name>
  <manacost></manacost>
  <cmc>0</cmc>
- <pt>2/2</pt>
- <type>Token Creature — Insect Plant</type>
- <tablerow>2</tablerow>
- <text>Decayed. *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
+ <type>Artifact — Equipment</type>
+ <tablerow>1</tablerow>
+ <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
  <token>1</token>
- <set num="EXPT113" rarity="token">tokens</set>
- <reverse-related>Algael-leael</reverse-related>
- <reverse-related count="2">Scholigaunt</reverse-related>
- <reverse-related>Sryyn Spawner</reverse-related>
- <reverse-related>Xylem Attendant</reverse-related>
+ <set num="AKT267" rarity="bonus">tokens</set>
+ <reverse-related>Accommodation</reverse-related>
 </card>
 <card>
  <name>Embraced Cards AKT</name>
@@ -26,7 +21,6 @@
  <text>*(Put your embraced cards here. They're in exile, and you may play them on a later turn that a source you control that shares a creature type with it dealt damage to an opponent.)*</text>
  <token>1</token>
  <set num="AKT239" rarity="bonus">tokens</set>
- <reverse-related>Eschewer of Form</reverse-related>
  <reverse-related>ArkaiIxajaprataKgxrajatajex</reverse-related>
  <reverse-related>Atir, Heart of the Argent Court</reverse-related>
  <reverse-related>Callwolf Replica</reverse-related>
@@ -76,43 +70,22 @@
  <reverse-related>Waste Management</reverse-related>
  <reverse-related>Wind Tunnels</reverse-related>
  <reverse-related>Zeitgeist's Judgment</reverse-related>
+ <reverse-related>Eschewer of Form</reverse-related>
 </card>
 <card>
- <name>Wall Token EXPT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>0/3</pt>
- <type>Token Artifact Creature — Wall</type>
- <tablerow>2</tablerow>
- <text>Defender *(This creature can't attack.)*</text>
- <token>1</token>
- <set num="EXPT119" rarity="token">tokens</set>
- <reverse-related>Hopeless Summit</reverse-related>
-</card>
-<card>
- <name>Shapeshifter Token EXPT</name>
+ <name>red Incarnation 11AKT</name>
+ <color>R</color>
  <manacost></manacost>
  <cmc>0</cmc>
  <pt>1/1</pt>
- <type>Token Creature — Shapeshifter</type>
+ <type>Token Creature — Incarnation</type>
  <tablerow>2</tablerow>
- <text>Changeling *(This card is every creature type.)*</text>
+ <text>Flying</text>
  <token>1</token>
- <set num="EXPT136" rarity="token">tokens</set>
- <reverse-related>Lost Cause</reverse-related>
-</card>
-<card>
- <name>Liberated Dragon AKT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/2</pt>
- <type>Token Creature — Dragon</type>
- <tablerow>2</tablerow>
- <text>*(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can't be transformed.)*</text>
- <token>1</token>
- <set num="AKT78" rarity="bonus">tokens</set>
- <reverse-related>Sealed Deepborn</reverse-related>
- <reverse-related>Liberated Dragon</reverse-related>
+ <set num="AKT243" rarity="bonus">tokens</set>
+ <reverse-related>Atraja the Mutable</reverse-related>
+ <reverse-related>Ineffable Spawning</reverse-related>
+ <reverse-related>Zeitgeist's Judgment</reverse-related>
 </card>
 <card>
  <name>Can Be Cast From Exile EXPT</name>
@@ -123,7 +96,6 @@
  <text>*(These cards can be cast from exile.)*</text>
  <token>1</token>
  <set num="EXPT146" rarity="token">tokens</set>
- <reverse-related>Shrouded Pathcensor</reverse-related>
  <reverse-related>Callwolf Chanter</reverse-related>
  <reverse-related>Skarrgsong</reverse-related>
  <reverse-related>Cunning Qualiaform</reverse-related>
@@ -132,6 +104,7 @@
  <reverse-related>Ilx, Mothweft Ambassador</reverse-related>
  <reverse-related>Swiftpaw Striker</reverse-related>
  <reverse-related>Swiftmind Sage</reverse-related>
+ <reverse-related>Shrouded Pathcensor</reverse-related>
  <reverse-related>Aggravator of Herds</reverse-related>
  <reverse-related>Davriel's Dealbroker</reverse-related>
  <reverse-related>Mad Summoner</reverse-related>
@@ -188,6 +161,180 @@
  <reverse-related>Sunset Study</reverse-related>
  <reverse-related>Embraced Cards</reverse-related>
  <reverse-related>In the Moment</reverse-related>
+</card>
+<card>
+ <name>white Soldier 11AKT</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Soldier</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="AKT247" rarity="bonus">tokens</set>
+ <reverse-related count="2">God-Worm Bulwark</reverse-related>
+ <reverse-related count="X">Lightning's Protection</reverse-related>
+ <reverse-related count="2">Lunette, Imperial Strategist</reverse-related>
+ <reverse-related>Raltan Rescuer</reverse-related>
+ <reverse-related>Raltan Protector</reverse-related>
+ <reverse-related count="2">Rapid Response</reverse-related>
+</card>
+<card>
+ <name>Treasure</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <type>Token Artifact — Treasure</type>
+ <tablerow>1</tablerow>
+ <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+ <token>1</token>
+ <set num="AKT241" rarity="bonus">tokens</set>
+ <reverse-related>Hazard Technician</reverse-related>
+ <reverse-related>Hazardous Technician</reverse-related>
+ <reverse-related>Hazenwyld Beastmaster</reverse-related>
+ <reverse-related>Hazenwyld Ransacker</reverse-related>
+ <reverse-related>Sound Engineer</reverse-related>
+</card>
+<card>
+ <name>green Hex Citizen 11AKT</name>
+ <color>G</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Hex Citizen</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="AKT244" rarity="bonus">tokens</set>
+ <reverse-related>Heart of Prithite</reverse-related>
+ <reverse-related>Ur-Gifted Surgeon</reverse-related>
+ <reverse-related>Homestead of the Meek</reverse-related>
+ <reverse-related>Host Farm Babysitter</reverse-related>
+ <reverse-related count="2">Infested Fortress</reverse-related>
+ <reverse-related>Orthodox Scholar</reverse-related>
+</card>
+<card>
+ <name>red Incarnation Soldier 32AKT</name>
+ <color>R</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/2</pt>
+ <type>Token Creature — Incarnation Soldier</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="AKT246" rarity="token">tokens</set>
+ <reverse-related>Lethal Force</reverse-related>
+</card>
+<card>
+ <name>white Insect Advisor 11AKT</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Insect Advisor</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="AKT139" rarity="bonus">tokens</set>
+ <reverse-related>Spokesman of the Mothweft</reverse-related>
+</card>
+<card>
+ <name>Drake Token EXPT</name>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Drake</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="EXPT154" rarity="token">tokens</set>
+ <reverse-related>Adventurous Pair</reverse-related>
+ <reverse-related count="2">Calign</reverse-related>
+ <reverse-related>Cerise, Augur of Flow</reverse-related>
+ <reverse-related>Ignelscor Witch</reverse-related>
+ <reverse-related>Kindred Spirits</reverse-related>
+ <reverse-related>Tepid Tamer</reverse-related>
+</card>
+<card>
+ <name>Insect Plant Token EXPT</name>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>2/2</pt>
+ <type>Token Creature — Insect Plant</type>
+ <tablerow>2</tablerow>
+ <text>Decayed. *(This creature can't block. When it attacks, sacrifice it at end of combat.)*</text>
+ <token>1</token>
+ <set num="EXPT113" rarity="token">tokens</set>
+ <reverse-related>Algael-leael</reverse-related>
+ <reverse-related count="2">Scholigaunt</reverse-related>
+ <reverse-related>Sryyn Spawner</reverse-related>
+ <reverse-related>Xylem Attendant</reverse-related>
+</card>
+<card>
+ <name>Wall Token EXPT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>0/3</pt>
+ <type>Token Artifact Creature — Wall</type>
+ <tablerow>2</tablerow>
+ <text>Defender *(This creature can't attack.)*</text>
+ <token>1</token>
+ <set num="EXPT119" rarity="token">tokens</set>
+ <reverse-related>Hopeless Summit</reverse-related>
+</card>
+<card>
+ <name>Fox Token EXPT</name>
+ <color>W</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>0/2</pt>
+ <type>Token Creature — Fox</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="EXPT155" rarity="token">tokens</set>
+ <reverse-related>Kindred Spirits</reverse-related>
+</card>
+<card>
+ <name>Shapeshifter Token EXPT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Shapeshifter</type>
+ <tablerow>2</tablerow>
+ <text>Changeling *(This card is every creature type.)*</text>
+ <token>1</token>
+ <set num="EXPT136" rarity="token">tokens</set>
+ <reverse-related>Lost Cause</reverse-related>
+</card>
+<card>
+ <name>Liberated Dragon AKT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/2</pt>
+ <type>Token Creature — Dragon</type>
+ <tablerow>2</tablerow>
+ <text>*(Put a liberated card under this; this has its abilities, but not card types. This is single faced and can't be transformed.)*</text>
+ <token>1</token>
+ <set num="AKT78" rarity="bonus">tokens</set>
+ <reverse-related>Sealed Deepborn</reverse-related>
+ <reverse-related>Liberated Dragon</reverse-related>
+</card>
+<card>
+ <name>black Demon EXPT</name>
+ <color>B</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>X/X</pt>
+ <type>Token Creature — Demon</type>
+ <tablerow>2</tablerow>
+ <text></text>
+ <token>1</token>
+ <set num="EXPT153" rarity="token">tokens</set>
+ <reverse-related>The Demon Within</reverse-related>
 </card>
 <card>
  <name>silver Horror 22EXPT</name>
@@ -277,109 +424,6 @@
  <reverse-related>Wings of New Horizons</reverse-related>
  <reverse-related>Multaph's Respite's Spellbook</reverse-related>
  <reverse-related>Warped Exploration</reverse-related>
-</card>
-<card>
- <name>House AKT</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Artifact — Equipment</type>
- <tablerow>1</tablerow>
- <text>Equipped creature gets +1/+1. Equip creature of the chosen type {1}</text>
- <token>1</token>
- <set num="AKT267" rarity="bonus">tokens</set>
- <reverse-related>Accommodation</reverse-related>
-</card>
-<card>
- <name>red Incarnation 11AKT</name>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Incarnation</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="AKT243" rarity="bonus">tokens</set>
- <reverse-related>Atraja the Mutable</reverse-related>
- <reverse-related>Ineffable Spawning</reverse-related>
- <reverse-related>Zeitgeist's Judgment</reverse-related>
-</card>
-<card>
- <name>white Soldier 11AKT</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Soldier</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="AKT247" rarity="bonus">tokens</set>
- <reverse-related count="2">God-Worm Bulwark</reverse-related>
- <reverse-related count="X">Lightning's Protection</reverse-related>
- <reverse-related count="2">Lunette, Imperial Strategist</reverse-related>
- <reverse-related>Raltan Rescuer</reverse-related>
- <reverse-related>Raltan Protector</reverse-related>
- <reverse-related count="2">Rapid Response</reverse-related>
-</card>
-<card>
- <name>Treasure</name>
- <manacost></manacost>
- <cmc>0</cmc>
- <type>Token Artifact — Treasure</type>
- <tablerow>1</tablerow>
- <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
- <token>1</token>
- <set num="AKT241" rarity="bonus">tokens</set>
- <reverse-related>Hazard Technician</reverse-related>
- <reverse-related>Hazardous Technician</reverse-related>
- <reverse-related>Hazenwyld Beastmaster</reverse-related>
- <reverse-related>Hazenwyld Ransacker</reverse-related>
- <reverse-related>Sound Engineer</reverse-related>
-</card>
-<card>
- <name>green Hex Citizen 11AKT</name>
- <color>G</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Hex Citizen</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="AKT244" rarity="bonus">tokens</set>
- <reverse-related>Heart of Prithite</reverse-related>
- <reverse-related>Ur-Gifted Surgeon</reverse-related>
- <reverse-related>Homestead of the Meek</reverse-related>
- <reverse-related>Host Farm Babysitter</reverse-related>
- <reverse-related count="2">Infested Fortress</reverse-related>
- <reverse-related>Orthodox Scholar</reverse-related>
-</card>
-<card>
- <name>red Incarnation Soldier 32AKT</name>
- <color>R</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>3/2</pt>
- <type>Token Creature — Incarnation Soldier</type>
- <tablerow>2</tablerow>
- <text></text>
- <token>1</token>
- <set num="AKT246" rarity="token">tokens</set>
- <reverse-related>Lethal Force</reverse-related>
-</card>
-<card>
- <name>white Insect Advisor 11AKT</name>
- <color>W</color>
- <manacost></manacost>
- <cmc>0</cmc>
- <pt>1/1</pt>
- <type>Token Creature — Insect Advisor</type>
- <tablerow>2</tablerow>
- <text>Flying</text>
- <token>1</token>
- <set num="AKT139" rarity="bonus">tokens</set>
- <reverse-related>Spokesman of the Mothweft</reverse-related>
 </card>
 <card>
  <name>black Skeleton 11HEL</name>
@@ -1346,6 +1390,18 @@
  <set num="AKT268" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Dragon Eye Token EXPT</name>
+ <color>U</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>4/4</pt>
+ <type>Token Creature — Dragon Eye</type>
+ <tablerow>2</tablerow>
+ <text>Trample</text>
+ <token>1</token>
+ <set num="EXPT156" rarity="token">tokens</set>
+</card>
+<card>
  <name>colorless Planeswalker Echo ITD</name>
  <manacost></manacost>
  <cmc>0</cmc>
@@ -1365,6 +1421,30 @@
  <text></text>
  <token>1</token>
  <set num="EXPT92" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Elemental Token 2 EXPT</name>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Elemental</type>
+ <tablerow>2</tablerow>
+ <text>Flying</text>
+ <token>1</token>
+ <set num="EXPT158" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Elemental Token 3 EXPT</name>
+ <color>I</color>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>1/1</pt>
+ <type>Token Creature — Elemental</type>
+ <tablerow>2</tablerow>
+ <text>Lifelink</text>
+ <token>1</token>
+ <set num="EXPT159" rarity="token">tokens</set>
 </card>
 <card>
  <name>Emergent Anomaly ITD ITD</name>
@@ -2087,6 +2167,17 @@
  <text>This creature is all colors.</text>
  <token>1</token>
  <set num="WAW172" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Wurm Dragon Token EXPT</name>
+ <manacost></manacost>
+ <cmc>0</cmc>
+ <pt>3/3</pt>
+ <type>Token Kindred Enchantment — Wurm Dragon</type>
+ <tablerow>1</tablerow>
+ <text>This enchantment is also a creature if you've illuminated silver.</text>
+ <token>1</token>
+ <set num="EXPT157" rarity="token">tokens</set>
 </card>
 </cards>
 </cockatrice_carddatabase>
