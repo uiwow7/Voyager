@@ -38,7 +38,7 @@
 			<releasedate></releasedate>
 		</set>
 		<set>
-			<name>VMN</name>
+			<name>VNM</name>
 			<longname>Vinimroth Eternities</longname>
 			<settype>Voyager Pool</settype>
 			<releasedate></releasedate>
@@ -28421,7 +28421,7 @@ As long as you've illuminated blue or black, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="143" rarity="common">VMN</set>
+			<set num="143" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Accord Mentor</name>
@@ -28440,7 +28440,7 @@ As long as you've illuminated blue or black, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="27" rarity="uncommon">VMN</set>
+			<set num="27" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Aeon Awakener</name>
@@ -28459,7 +28459,7 @@ Once each turn, when a spell or ability puts a card into your hand, target creat
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="6" rarity="uncommon">VMN</set>
+			<set num="6" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Aerial Roost</name>
@@ -28476,7 +28476,7 @@ Once each turn, when a spell or ability puts a card into your hand, target creat
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="14" rarity="uncommon">VMN</set>
+			<set num="14" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Ageless History</name>
@@ -28496,7 +28496,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="24" rarity="uncommon">VMN</set>
+			<set num="24" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Ash to Hope</name>
@@ -28513,7 +28513,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="325" rarity="common">VMN</set>
+			<set num="325" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Aspiring Entity</name>
@@ -28532,7 +28532,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="105" rarity="common">VMN</set>
+			<set num="105" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Aspiring Mount</name>
@@ -28551,7 +28551,7 @@ Whenever this creature deals combat damage to a noncreature, reveal the defendin
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="55" rarity="uncommon">VMN</set>
+			<set num="55" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Attuned Shimmer</name>
@@ -28571,7 +28571,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="252" rarity="rare">VMN</set>
+			<set num="252" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Assaulter</name>
@@ -28589,7 +28589,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="63" rarity="common">VMN</set>
+			<set num="63" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Avenger</name>
@@ -28609,7 +28609,7 @@ Each opponent loses 2 life.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="57" rarity="common">VMN</set>
+			<set num="57" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Cleaner</name>
@@ -28627,7 +28627,7 @@ Each opponent loses 2 life.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="62" rarity="common">VMN</set>
+			<set num="62" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Hazeweaver</name>
@@ -28647,7 +28647,7 @@ Target creature gets -2/-0 until end of turn. Cast only outside of combat.</text
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="320" rarity="common">VMN</set>
+			<set num="320" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Hireblade</name>
@@ -28667,7 +28667,7 @@ As long as you've illuminated black, this creature gets +1/+1 and has “Wheneve
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="71" rarity="uncommon">VMN</set>
+			<set num="71" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Mentor</name>
@@ -28687,7 +28687,7 @@ Each opponent loses 2 life.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="69" rarity="uncommon">VMN</set>
+			<set num="69" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Opportunist</name>
@@ -28706,7 +28706,7 @@ Whenever Avakin Opportunist attacks, draw a card, then discard a card unless you
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="133" rarity="common">VMN</set>
+			<set num="133" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Riftseeker</name>
@@ -28725,7 +28725,7 @@ Whenever Avakin Opportunist attacks, draw a card, then discard a card unless you
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="4" rarity="uncommon">VMN</set>
+			<set num="4" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Riftwalker</name>
@@ -28744,7 +28744,7 @@ This creature has flying as long as you've illuminated black.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="59" rarity="common">VMN</set>
+			<set num="59" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Sayer</name>
@@ -28762,7 +28762,7 @@ This creature has flying as long as you've illuminated black.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="53" rarity="uncommon">VMN</set>
+			<set num="53" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Avakin Watcher</name>
@@ -28782,7 +28782,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to i
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="141" rarity="common">VMN</set>
+			<set num="141" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avlod Bulwark</name>
@@ -28802,7 +28802,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="174" rarity="common">VMN</set>
+			<set num="174" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avlod Diviner</name>
@@ -28822,7 +28822,7 @@ Whenever you cast your second spell each turn, put a +1/+1 counter on this creat
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="54" rarity="uncommon">VMN</set>
+			<set num="54" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Avlod Necklace</name>
@@ -28840,7 +28840,7 @@ Equip {2}</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="68" rarity="common">VMN</set>
+			<set num="68" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Avlod Pathshaper</name>
@@ -28860,7 +28860,7 @@ Fracture — At the beginning of combat, if you cast a noncreature spell this tu
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="282" rarity="common">VMN</set>
+			<set num="282" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Awakened Harmony</name>
@@ -28878,7 +28878,7 @@ Fracture — At the beginning of combat, if you cast a noncreature spell this tu
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="90" rarity="common">VMN</set>
+			<set num="90" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Bark of Tofnet Plains</name>
@@ -28897,7 +28897,7 @@ Evoke {I/W} (You may cast this spell for its evoke cost. If you do, it's sacrifi
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="226" rarity="common">VMN</set>
+			<set num="226" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Bearer of Change</name>
@@ -28916,7 +28916,7 @@ Whenever you attack, target player mills four cards.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="265" rarity="rare">VMN</set>
+			<set num="265" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Blessing of Uth</name>
@@ -28934,7 +28934,7 @@ Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="126" rarity="common">VMN</set>
+			<set num="126" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Blossoming Mentor</name>
@@ -28953,7 +28953,7 @@ As long as you have at least 7 life more than your starting life total, creature
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="26" rarity="uncommon">VMN</set>
+			<set num="26" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Boon of Roduth</name>
@@ -28971,7 +28971,7 @@ Target creature you control gets +2/+2 until end of turn. If you've illuminated 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="97" rarity="common">VMN</set>
+			<set num="97" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Breach of Malice</name>
@@ -28990,7 +28990,7 @@ Sacrifice Breach of Malice: Creatures you control get +2/+0 until end of turn.</
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="274" rarity="rare">VMN</set>
+			<set num="274" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Breach of Mortality</name>
@@ -29009,7 +29009,7 @@ Whenever a creature dies, each opponent loses 2 life.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="276" rarity="rare">VMN</set>
+			<set num="276" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Breach of Nature</name>
@@ -29028,7 +29028,7 @@ You may look at the top card of your library at any time.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="275" rarity="rare">VMN</set>
+			<set num="275" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Breach of Protection</name>
@@ -29046,7 +29046,7 @@ At the beginning of your end step, if you've gained 3 or more life this turn, cr
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="272" rarity="rare">VMN</set>
+			<set num="272" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Breach of Sanity</name>
@@ -29064,7 +29064,7 @@ At the beginning of each end step, target player mills two cards. If a card with
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="273" rarity="rare">VMN</set>
+			<set num="273" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Breach of the Unknown</name>
@@ -29084,7 +29084,7 @@ Whenever you tap enchanted land, add {I}.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="277" rarity="rare">VMN</set>
+			<set num="277" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Breaking the Mold</name>
@@ -29104,7 +29104,7 @@ Voidstone Shard {2}|Enchantment          When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="201" rarity="uncommon">VMN</set>
+			<set num="201" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Brood Protector</name>
@@ -29123,7 +29123,7 @@ Fracture — At the beginning of combat on your turn, if you cast a noncreature 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="84" rarity="uncommon">VMN</set>
+			<set num="84" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Bruin Clankeeper</name>
@@ -29142,7 +29142,7 @@ Creature tokens you control get +0/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="93" rarity="common">VMN</set>
+			<set num="93" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Bruin Mentor</name>
@@ -29162,7 +29162,7 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="243" rarity="rare">VMN</set>
+			<set num="243" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Bruin Outlander</name>
@@ -29180,7 +29180,7 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="128" rarity="common">VMN</set>
+			<set num="128" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Bruin Wanderer</name>
@@ -29200,7 +29200,7 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="3" rarity="uncommon">VMN</set>
+			<set num="3" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Bulwark of the Thicket</name>
@@ -29220,7 +29220,7 @@ Whenever this creature attacks, put a +1/+1 counter on target attacking token cr
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="7" rarity="uncommon">VMN</set>
+			<set num="7" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Bushy Shimmer</name>
@@ -29240,7 +29240,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="253" rarity="rare">VMN</set>
+			<set num="253" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Calia, Oracle of Tofnet Plains</name>
@@ -29259,7 +29259,7 @@ Fracture — At the beginning of combat on your turn, as long as you cast a nonc
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="235" rarity="rare">VMN</set>
+			<set num="235" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Called by the Void</name>
@@ -29276,7 +29276,7 @@ Fracture — At the beginning of combat on your turn, as long as you cast a nonc
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="219" rarity="uncommon">VMN</set>
+			<set num="219" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Chittering Entity</name>
@@ -29296,7 +29296,7 @@ Materialize 0 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="162" rarity="common">VMN</set>
+			<set num="162" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Choked Essence</name>
@@ -29315,7 +29315,7 @@ Materialize 0 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="318" rarity="uncommon">VMN</set>
+			<set num="318" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Chromaboon Blade</name>
@@ -29336,7 +29336,7 @@ Until end of turn, creatures you control get +1/+1 and can attack as though they
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="130" rarity="uncommon">VMN</set>
+			<set num="130" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Clanless Destruction</name>
@@ -29355,7 +29355,7 @@ When this enchantment enters, it deals 2 damage to target creature.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="82" rarity="common">VMN</set>
+			<set num="82" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Clanless Usurper</name>
@@ -29373,7 +29373,7 @@ When this enchantment enters, it deals 2 damage to target creature.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="19" rarity="uncommon">VMN</set>
+			<set num="19" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Combat Diviner</name>
@@ -29392,7 +29392,7 @@ At the beginning of combat on your turn, target creature you control gets +1/+0 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="45" rarity="uncommon">VMN</set>
+			<set num="45" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Common Enemy</name>
@@ -29409,7 +29409,7 @@ At the beginning of combat on your turn, target creature you control gets +1/+0 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="330" rarity="uncommon">VMN</set>
+			<set num="330" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Conflict Mentor</name>
@@ -29428,7 +29428,7 @@ Tokens you control have menace.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="29" rarity="uncommon">VMN</set>
+			<set num="29" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Conscripted by the Clanless</name>
@@ -29446,7 +29446,7 @@ Gain control of target creature until end of turn. Untap it. It gains haste unti
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="81" rarity="common">VMN</set>
+			<set num="81" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Cooing Foundling</name>
@@ -29464,7 +29464,7 @@ Gain control of target creature until end of turn. Untap it. It gains haste unti
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="56" rarity="common">VMN</set>
+			<set num="56" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Covetous Fox</name>
@@ -29484,7 +29484,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="41" rarity="common">VMN</set>
+			<set num="41" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Crackling Plains</name>
@@ -29503,7 +29503,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="298" rarity="mythic rare">VMN</set>
+			<set num="298" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Crowned Entity</name>
@@ -29522,7 +29522,7 @@ Materialize 5 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="183" rarity="uncommon">VMN</set>
+			<set num="183" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Curious Shimmer</name>
@@ -29542,7 +29542,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="255" rarity="rare">VMN</set>
+			<set num="255" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Cursory Casualty</name>
@@ -29562,7 +29562,7 @@ As long as you've illuminated black or green, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="148" rarity="common">VMN</set>
+			<set num="148" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Dark Lessons</name>
@@ -29581,7 +29581,7 @@ Whenever you attack, each opponent loses 2 life.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="129" rarity="common">VMN</set>
+			<set num="129" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Denied by Nature</name>
@@ -29598,7 +29598,7 @@ Whenever you attack, each opponent loses 2 life.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="49" rarity="uncommon">VMN</set>
+			<set num="49" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Divided Forest</name>
@@ -29617,7 +29617,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="307" rarity="mythic rare">VMN</set>
+			<set num="307" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Drake Rider</name>
@@ -29636,7 +29636,7 @@ As long as you control another creature with flying, this creature has flying.</
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="39" rarity="common">VMN</set>
+			<set num="39" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Drake Wrangler</name>
@@ -29655,7 +29655,7 @@ Drakes you control get +1/+1 and have “Whenever this creature attacks, if you 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="0" rarity="uncommon">VMN</set>
+			<set num="0" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Dromencal's Respite</name>
@@ -29675,7 +29675,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="232" rarity="common">VMN</set>
+			<set num="232" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Due Dismissal</name>
@@ -29694,7 +29694,7 @@ Target creature gets -2/-0 until end of turn. Cast only outside of combat.</text
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="48" rarity="common">VMN</set>
+			<set num="48" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Dust for Dust</name>
@@ -29713,7 +29713,7 @@ Flashback {1}{B} (You may cast this card from your graveyard for its flashback c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="249" rarity="rare">VMN</set>
+			<set num="249" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Dust to Life</name>
@@ -29733,7 +29733,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="16" rarity="common">VMN</set>
+			<set num="16" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Dustfall</name>
@@ -29750,7 +29750,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="329" rarity="rare">VMN</set>
+			<set num="329" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Enduring Sapling</name>
@@ -29768,7 +29768,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="319" rarity="mythic rare">VMN</set>
+			<set num="319" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Entrance of Hunger</name>
@@ -29785,7 +29785,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="12" rarity="uncommon">VMN</set>
+			<set num="12" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Ephemeral Ordinance</name>
@@ -29805,7 +29805,7 @@ As long as you've illuminated green or white, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="146" rarity="common">VMN</set>
+			<set num="146" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Eternal Mentor</name>
@@ -29824,7 +29824,7 @@ As long as you've illuminated green or white, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="28" rarity="uncommon">VMN</set>
+			<set num="28" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Eternities Weaver</name>
@@ -29843,7 +29843,7 @@ You may play lands from your sanctum.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="268" rarity="rare">VMN</set>
+			<set num="268" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Eternity Siphon</name>
@@ -29863,7 +29863,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="314" rarity="common">VMN</set>
+			<set num="314" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Ethereal Exposure</name>
@@ -29881,7 +29881,7 @@ Draw a card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="333" rarity="common">VMN</set>
+			<set num="333" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Evanescent Impasse</name>
@@ -29901,7 +29901,7 @@ As long as you've illuminated blue or red, this creature gets +1/+1 and can atta
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="150" rarity="common">VMN</set>
+			<set num="150" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Explorer's Compass</name>
@@ -29921,7 +29921,7 @@ Create a trace of a basic land of any type into your hand.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="112" rarity="uncommon">VMN</set>
+			<set num="112" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Bodyguard</name>
@@ -29939,7 +29939,7 @@ Create a trace of a basic land of any type into your hand.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="44" rarity="uncommon">VMN</set>
+			<set num="44" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Drillmaster</name>
@@ -29959,7 +29959,7 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="37" rarity="common">VMN</set>
+			<set num="37" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Initiate</name>
@@ -29978,7 +29978,7 @@ This creature gets +2/+1 as long as you've illuminated white.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="31" rarity="common">VMN</set>
+			<set num="31" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Pathwarden</name>
@@ -29998,7 +29998,7 @@ Whenever you cast a noncreature spell, put a +1/+1 counter on up to one target c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="259" rarity="rare">VMN</set>
+			<set num="259" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Reinforcement</name>
@@ -30017,7 +30017,7 @@ When Fadove Reinforcement enters, you may return up to one target enchantment yo
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="281" rarity="common">VMN</set>
+			<set num="281" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Tracker</name>
@@ -30037,7 +30037,7 @@ Until end of turn, creatures you control get +1/+1 and can attack as though they
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="34" rarity="common">VMN</set>
+			<set num="34" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Trainer</name>
@@ -30057,7 +30057,7 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="32" rarity="common">VMN</set>
+			<set num="32" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Fadove Willshaper</name>
@@ -30077,7 +30077,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to i
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="121" rarity="uncommon">VMN</set>
+			<set num="121" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Faloden Scavenger</name>
@@ -30095,7 +30095,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to i
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="316" rarity="rare">VMN</set>
+			<set num="316" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Faloden Tear-Warden</name>
@@ -30114,7 +30114,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to i
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="176" rarity="uncommon">VMN</set>
+			<set num="176" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Faloden Thickets</name>
@@ -30134,7 +30134,7 @@ Tap an untapped silver or green permanent: Target creature gets +1/+1 and gains 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="175" rarity="uncommon">VMN</set>
+			<set num="175" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Farming Wurm</name>
@@ -30153,10 +30153,10 @@ Tap an untapped silver or green permanent: Target creature gets +1/+1 and gains 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="89" rarity="common">VMN</set>
+			<set num="89" rarity="common">VNM</set>
 		</card>
 		<card>
-			<name>Fault_VMN</name>
+			<name>Fault_VNM</name>
 			<text>({T}: Add {I}.)</text>
 			<prop>
 				<side>front</side>
@@ -30170,7 +30170,7 @@ Tap an untapped silver or green permanent: Target creature gets +1/+1 and gains 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="323" rarity="basic land">VMN</set>
+			<set num="323" rarity="basic land">VNM</set>
 		</card>
 		<card>
 			<name>Fervent Incandescence</name>
@@ -30189,7 +30189,7 @@ Fracture — At the beginning of combat, if you cast a noncreature spell this tu
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="74" rarity="uncommon">VMN</set>
+			<set num="74" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Flaming Iron</name>
@@ -30210,7 +30210,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="184" rarity="common">VMN</set>
+			<set num="184" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Flashing Path</name>
@@ -30229,7 +30229,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="312" rarity="mythic rare">VMN</set>
+			<set num="312" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Fleeting Ruin</name>
@@ -30249,7 +30249,7 @@ As long as you've illuminated black or red, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="144" rarity="common">VMN</set>
+			<set num="144" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Fog Walker</name>
@@ -30267,10 +30267,10 @@ As long as you've illuminated black or red, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="231" rarity="common">VMN</set>
+			<set num="231" rarity="common">VNM</set>
 		</card>
 		<card>
-			<name>Forest_VMN</name>
+			<name>Forest_VNM</name>
 			<text>({T}: Add {G})</text>
 			<prop>
 				<side>front</side>
@@ -30284,7 +30284,7 @@ As long as you've illuminated black or red, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="297" rarity="bonus">VMN</set>
+			<set num="297" rarity="bonus">VNM</set>
 		</card>
 		<card>
 			<name>Forest Assailant</name>
@@ -30302,7 +30302,7 @@ As long as you've illuminated black or red, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="101" rarity="uncommon">VMN</set>
+			<set num="101" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Frontline Assaulter</name>
@@ -30322,7 +30322,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="72" rarity="common">VMN</set>
+			<set num="72" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Frostborn Glimmer</name>
@@ -30341,7 +30341,7 @@ Fracture — Whenever this creature attacks, if you cast a noncreature spell thi
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="137" rarity="common">VMN</set>
+			<set num="137" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Frostborn Sentinel</name>
@@ -30360,7 +30360,7 @@ Fracture — At the beginning of combat, if you cast a noncreature spell this tu
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="46" rarity="common">VMN</set>
+			<set num="46" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Frostnip Watcher</name>
@@ -30380,7 +30380,7 @@ Tap an untapped silver or blue permanent you control: This creature gets +1/+0 u
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="114" rarity="uncommon">VMN</set>
+			<set num="114" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Furrowed Mountain</name>
@@ -30399,7 +30399,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="301" rarity="mythic rare">VMN</set>
+			<set num="301" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Gateway Guardian</name>
@@ -30419,7 +30419,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="58" rarity="common">VMN</set>
+			<set num="58" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Giant's Blade</name>
@@ -30440,7 +30440,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="160" rarity="uncommon">VMN</set>
+			<set num="160" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Grazed by the Endless</name>
@@ -30458,7 +30458,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="317" rarity="common">VMN</set>
+			<set num="317" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Guardian Roost</name>
@@ -30478,7 +30478,7 @@ Whenever this card leaves your sanctum, you may reveal it. If you do, create thr
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="269" rarity="rare">VMN</set>
+			<set num="269" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Guardian of Faloden Woods</name>
@@ -30497,7 +30497,7 @@ Whenever this card leaves your sanctum, you may reveal it. If you do, create thr
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="229" rarity="common">VMN</set>
+			<set num="229" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Hired Enforcer</name>
@@ -30516,7 +30516,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="17" rarity="uncommon">VMN</set>
+			<set num="17" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Icebound Reinforcements</name>
@@ -30535,7 +30535,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="25" rarity="uncommon">VMN</set>
+			<set num="25" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Iconic Absolution</name>
@@ -30552,7 +30552,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="118" rarity="common">VMN</set>
+			<set num="118" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Iconic Altercation</name>
@@ -30569,7 +30569,7 @@ At the beginning of combat on your turn, this creature gains indestructible unti
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="96" rarity="common">VMN</set>
+			<set num="96" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Iconic Incident</name>
@@ -30587,7 +30587,7 @@ Draw a card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="171" rarity="common">VMN</set>
+			<set num="171" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Iconic Resolution</name>
@@ -30605,7 +30605,7 @@ If you control an enchantment, target creature can't block until end of turn.</t
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="80" rarity="common">VMN</set>
+			<set num="80" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Iconic Resurgence</name>
@@ -30623,7 +30623,7 @@ If you control an enchantment, each opponent loses 2 life and you gain 2 life.</
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="67" rarity="common">VMN</set>
+			<set num="67" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Impetuous Eradication</name>
@@ -30643,7 +30643,7 @@ As long as you've illuminated red or green, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="145" rarity="common">VMN</set>
+			<set num="145" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Impunity of Souls</name>
@@ -30660,10 +30660,10 @@ As long as you've illuminated red or green, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="334" rarity="common">VMN</set>
+			<set num="334" rarity="common">VNM</set>
 		</card>
 		<card>
-			<name>Island_VMN</name>
+			<name>Island_VNM</name>
 			<text>({T}: Add {U})</text>
 			<prop>
 				<side>front</side>
@@ -30677,7 +30677,7 @@ As long as you've illuminated red or green, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="294" rarity="bonus">VMN</set>
+			<set num="294" rarity="bonus">VNM</set>
 		</card>
 		<card>
 			<name>Kaln-Ocean Cloak</name>
@@ -30698,7 +30698,7 @@ Scry 1, then draw a card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="138" rarity="common">VMN</set>
+			<set num="138" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Kaln-Ocean Wispop</name>
@@ -30717,7 +30717,7 @@ Scry 1, then draw a card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="227" rarity="common">VMN</set>
+			<set num="227" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Keeper of Calm</name>
@@ -30738,7 +30738,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="173" rarity="common">VMN</set>
+			<set num="173" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Keeper of Faloden Woods</name>
@@ -30758,7 +30758,7 @@ When this creature enters, up to one target creature you control gets +3/+3 unti
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="262" rarity="rare">VMN</set>
+			<set num="262" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Khestri, Fadove Clanleader</name>
@@ -30778,7 +30778,7 @@ Whenever you attack, create a trace of a skill from among permanents you control
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="240" rarity="rare">VMN</set>
+			<set num="240" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Kier, Acolyte of Avlod Respite</name>
@@ -30799,7 +30799,7 @@ Enchant land; Enchanted land has “{T}: Add one mana of any color.”</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="237" rarity="rare">VMN</set>
+			<set num="237" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Korna, Vinimroth Historian</name>
@@ -30818,7 +30818,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="246" rarity="rare">VMN</set>
+			<set num="246" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Lavaskimmer Wurm</name>
@@ -30837,7 +30837,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="87" rarity="common">VMN</set>
+			<set num="87" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Left for the Crows</name>
@@ -30854,7 +30854,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="65" rarity="common">VMN</set>
+			<set num="65" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Maddened by Hunger</name>
@@ -30873,7 +30873,7 @@ Enchanted permanent is colorless and has no abilities.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="43" rarity="common">VMN</set>
+			<set num="43" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Malevolent Naginata</name>
@@ -30894,7 +30894,7 @@ Target creature gets -2/-0 until end of turn. Cast only outside of combat. </tex
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="180" rarity="uncommon">VMN</set>
+			<set num="180" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Manifesting Ardor</name>
@@ -30912,7 +30912,7 @@ Target creature gets -2/-0 until end of turn. Cast only outside of combat. </tex
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="153" rarity="uncommon">VMN</set>
+			<set num="153" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Melodia, Voidtouched</name>
@@ -30931,7 +30931,7 @@ Whenever a creature token you control attacks, it gets +2/+1 until end of turn.<
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="234" rarity="rare">VMN</set>
+			<set num="234" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Midnight Raven</name>
@@ -30951,7 +30951,7 @@ Materialize 0 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="166" rarity="uncommon">VMN</set>
+			<set num="166" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Minotaur Outlander</name>
@@ -30971,7 +30971,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="85" rarity="uncommon">VMN</set>
+			<set num="85" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Minotaur Riftcaller</name>
@@ -30989,7 +30989,7 @@ Target creature you control gets +1/+0 and gains first strike until end of turn.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="73" rarity="common">VMN</set>
+			<set num="73" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Mischievous Fox</name>
@@ -31008,7 +31008,7 @@ Materialize 0 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="22" rarity="uncommon">VMN</set>
+			<set num="22" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Mistblade Rogue</name>
@@ -31026,7 +31026,7 @@ Materialize 0 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="152" rarity="uncommon">VMN</set>
+			<set num="152" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Mistveil Drake</name>
@@ -31045,7 +31045,7 @@ Fracture — Once each turn, whenever you cast a noncreature spell, this creatur
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="263" rarity="rare">VMN</set>
+			<set num="263" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Clanwarden</name>
@@ -31064,7 +31064,7 @@ Whenever you put a +1/+1 counter on a creature you control, this creature gets +
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="168" rarity="common">VMN</set>
+			<set num="168" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Combatant</name>
@@ -31084,7 +31084,7 @@ Equip abilities you activate that target Mordel Combatant cost {3} less to activ
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="264" rarity="rare">VMN</set>
+			<set num="264" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Drillmaster</name>
@@ -31104,7 +31104,7 @@ Exile the top card of your library. You may play it this turn.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="77" rarity="common">VMN</set>
+			<set num="77" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Excursionist</name>
@@ -31124,7 +31124,7 @@ Exile the top card of your library. You may play it this turn.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="86" rarity="uncommon">VMN</set>
+			<set num="86" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Formgiver</name>
@@ -31143,7 +31143,7 @@ When this creature enters, put a +1/+1 counter on another target creature you co
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="91" rarity="common">VMN</set>
+			<set num="91" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Patrol</name>
@@ -31163,7 +31163,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="75" rarity="common">VMN</set>
+			<set num="75" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Razer</name>
@@ -31182,7 +31182,7 @@ Whenever this creature leaves your sanctum, you may exile cards from the top of 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="266" rarity="rare">VMN</set>
+			<set num="266" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Reinforcement</name>
@@ -31201,7 +31201,7 @@ Whenever this creature leaves your sanctum, you may exile cards from the top of 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="284" rarity="common">VMN</set>
+			<set num="284" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Mordel Warrior</name>
@@ -31221,10 +31221,10 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="172" rarity="common">VMN</set>
+			<set num="172" rarity="common">VNM</set>
 		</card>
 		<card>
-			<name>Mountain_VMN</name>
+			<name>Mountain_VNM</name>
 			<text>({T}: Add {R})</text>
 			<prop>
 				<side>front</side>
@@ -31238,7 +31238,7 @@ Put a +1/+1 counter on target creature you control. Cast only outside of combat.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="296" rarity="bonus">VMN</set>
+			<set num="296" rarity="bonus">VNM</set>
 		</card>
 		<card>
 			<name>Multaph, Riftborn God</name>
@@ -31258,7 +31258,7 @@ When Multaph enters, create a trace of another target enchantment with mana valu
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="211" rarity="rare">VMN</set>
+			<set num="211" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Multaph's Respite</name>
@@ -31276,7 +31276,7 @@ Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="216" rarity="rare">VMN</set>
+			<set num="216" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Multaph's Resplendant</name>
@@ -31295,7 +31295,7 @@ Once each turn, when you cast a noncreature spell, you may pay {2}. If you do, c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="127" rarity="uncommon">VMN</set>
+			<set num="127" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Multaph's Riftwarden</name>
@@ -31316,7 +31316,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="8" rarity="uncommon">VMN</set>
+			<set num="8" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Multaph's Watch</name>
@@ -31335,7 +31335,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="94" rarity="common">VMN</set>
+			<set num="94" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Najael, Travelling Shaman</name>
@@ -31354,7 +31354,7 @@ Once each turn, whenever an enchantment you control becomes a creature, draw a c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="218" rarity="rare">VMN</set>
+			<set num="218" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Oathkeep Wurm</name>
@@ -31372,7 +31372,7 @@ Once each turn, whenever an enchantment you control becomes a creature, draw a c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="38" rarity="common">VMN</set>
+			<set num="38" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Ola, Kaln-Ocean Spellkeeper</name>
@@ -31394,7 +31394,7 @@ Fracture — At the beginning of combat, if you cast a noncreature spell this tu
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="236" rarity="rare">VMN</set>
+			<set num="236" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Opportunistic Scavenger</name>
@@ -31413,7 +31413,7 @@ Materialize 1 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="20" rarity="uncommon">VMN</set>
+			<set num="20" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Outcast Mentor</name>
@@ -31432,7 +31432,7 @@ Creature tokens you control have haste.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="30" rarity="uncommon">VMN</set>
+			<set num="30" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Bulwark</name>
@@ -31451,7 +31451,7 @@ Whenever a spell or ability puts a card into your hand, create a tapped 1/1 blac
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="21" rarity="uncommon">VMN</set>
+			<set num="21" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Diviner</name>
@@ -31472,7 +31472,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="92" rarity="common">VMN</set>
+			<set num="92" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Frostalker</name>
@@ -31491,7 +31491,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="230" rarity="common">VMN</set>
+			<set num="230" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Guardian</name>
@@ -31510,7 +31510,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="285" rarity="common">VMN</set>
+			<set num="285" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Marauder</name>
@@ -31528,7 +31528,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="35" rarity="common">VMN</set>
+			<set num="35" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Pathwarden</name>
@@ -31547,7 +31547,7 @@ When this creature dies, search your library or sanctum for a card, reveal it, s
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="280" rarity="rare">VMN</set>
+			<set num="280" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Protector</name>
@@ -31567,7 +31567,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="157" rarity="uncommon">VMN</set>
+			<set num="157" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Respite</name>
@@ -31587,7 +31587,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="233" rarity="common">VMN</set>
+			<set num="233" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Riftbearer</name>
@@ -31608,7 +31608,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="167" rarity="common">VMN</set>
+			<set num="167" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Traveller</name>
@@ -31627,7 +31627,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="283" rarity="common">VMN</set>
+			<set num="283" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Outlands Wanderer</name>
@@ -31647,7 +31647,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="136" rarity="common">VMN</set>
+			<set num="136" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Paragon of Unknown Sights</name>
@@ -31666,7 +31666,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="328" rarity="uncommon">VMN</set>
+			<set num="328" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Passage Overseer</name>
@@ -31684,7 +31684,7 @@ Target creature gains vigilance and can't be blocked by creatures with power 2 o
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="2" rarity="uncommon">VMN</set>
+			<set num="2" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Path of Insight</name>
@@ -31703,7 +31703,7 @@ Draw three cards. Scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="260" rarity="rare">VMN</set>
+			<set num="260" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Path of Revival</name>
@@ -31723,7 +31723,7 @@ Choose one —
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="261" rarity="rare">VMN</set>
+			<set num="261" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Path of the Brood</name>
@@ -31742,7 +31742,7 @@ When Path of the Brood enters, create a 1/1 red Wurm creature token with haste.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="290" rarity="uncommon">VMN</set>
+			<set num="290" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Path of the Grove</name>
@@ -31760,7 +31760,7 @@ Choose three cards from your graveyard at random. Put on into your hand. (The re
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="278" rarity="rare">VMN</set>
+			<set num="278" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Path of the Mighty</name>
@@ -31779,7 +31779,7 @@ Creature spells you cast with mana value 5 or greater cost {1} less to cast.</te
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="291" rarity="uncommon">VMN</set>
+			<set num="291" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Path of the Proud</name>
@@ -31798,7 +31798,7 @@ Whenever you attack, if you gained life this turn, up to one target creature you
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="287" rarity="uncommon">VMN</set>
+			<set num="287" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Path of the Rift</name>
@@ -31816,7 +31816,7 @@ At the beginning of your upkeep, draw a card. You lose 1 life for each card in y
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="289" rarity="uncommon">VMN</set>
+			<set num="289" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Path of the Roost</name>
@@ -31834,7 +31834,7 @@ You may cast nonpermanent spells from your sanctum by paying {1}{U}{U} in additi
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="288" rarity="uncommon">VMN</set>
+			<set num="288" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Path to Ages</name>
@@ -31853,7 +31853,7 @@ Exile Path to Ages.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="271" rarity="rare">VMN</set>
+			<set num="271" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Path to Restoration</name>
@@ -31871,7 +31871,7 @@ Return target permanent card from your graveyard to the battlefield with a final
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="270" rarity="rare">VMN</set>
+			<set num="270" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Pathborn Aggression</name>
@@ -31891,7 +31891,7 @@ Whenever another card is put into your sanctum, return this creature from your g
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="267" rarity="rare">VMN</set>
+			<set num="267" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Pathborn Crackle</name>
@@ -31911,7 +31911,7 @@ A deck can have any number of cards name Pathborn Crackle.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="228" rarity="common">VMN</set>
+			<set num="228" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Pathborn Drake</name>
@@ -31931,7 +31931,7 @@ Whenever this creature attacks, scry 1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="279" rarity="rare">VMN</set>
+			<set num="279" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Pathbound Bloom</name>
@@ -31950,7 +31950,7 @@ Whenever this creature attacks, scry 1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="292" rarity="common">VMN</set>
+			<set num="292" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Paths Strider</name>
@@ -31969,7 +31969,7 @@ Whenever this creature attacks, scry 1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="286" rarity="common">VMN</set>
+			<set num="286" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Perplexing Ray</name>
@@ -31989,7 +31989,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="18" rarity="uncommon">VMN</set>
+			<set num="18" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Pinnacle Skitter</name>
@@ -32007,7 +32007,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="110" rarity="common">VMN</set>
+			<set num="110" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Pinnacle Wanderer</name>
@@ -32027,7 +32027,7 @@ Tap an untapped silver or white permanent you control: Target creature gets +0/+
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="113" rarity="uncommon">VMN</set>
+			<set num="113" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Pinnacle of Vinimroth</name>
@@ -32047,10 +32047,10 @@ Exile the top card of your library. You may play it this turn.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="251" rarity="rare">VMN</set>
+			<set num="251" rarity="rare">VNM</set>
 		</card>
 		<card>
-			<name>Plains_VMN</name>
+			<name>Plains_VNM</name>
 			<text>({T}: Add {W})</text>
 			<prop>
 				<side>front</side>
@@ -32064,7 +32064,7 @@ Exile the top card of your library. You may play it this turn.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="293" rarity="bonus">VMN</set>
+			<set num="293" rarity="bonus">VNM</set>
 		</card>
 		<card>
 			<name>Pouncing Shimmer</name>
@@ -32084,7 +32084,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="256" rarity="rare">VMN</set>
+			<set num="256" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Power Null</name>
@@ -32103,7 +32103,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="331" rarity="uncommon">VMN</set>
+			<set num="331" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Power of Oath</name>
@@ -32122,7 +32122,7 @@ You may cast this enchantment from your graveyard by exiling two other cards fro
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="117" rarity="common">VMN</set>
+			<set num="117" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Powerstone Claw</name>
@@ -32142,7 +32142,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="108" rarity="common">VMN</set>
+			<set num="108" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Prismatic Offense</name>
@@ -32162,7 +32162,7 @@ After your first combat phase, there is an additional combat phase where only Sh
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="245" rarity="rare">VMN</set>
+			<set num="245" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Prismatic Powerstone</name>
@@ -32181,7 +32181,7 @@ After your first combat phase, there is an additional combat phase where only Sh
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="154" rarity="uncommon">VMN</set>
+			<set num="154" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Prismatism</name>
@@ -32200,7 +32200,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="13" rarity="common">VMN</set>
+			<set num="13" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Progeny of Bruin</name>
@@ -32220,7 +32220,7 @@ When you cast this spell, draw a card and you you gain 3 life.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="102" rarity="uncommon">VMN</set>
+			<set num="102" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Progeny of Mordel</name>
@@ -32239,7 +32239,7 @@ When this creature enters, put a +1/+1 counter on each of up to two target creat
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="95" rarity="common">VMN</set>
+			<set num="95" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Prophellos, Pathborn Hunger</name>
@@ -32259,7 +32259,7 @@ Escape—{5}, Exile four other cards from your graveyard. (You may cast this car
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="248" rarity="rare">VMN</set>
+			<set num="248" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Purge the Clanless</name>
@@ -32278,7 +32278,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="10" rarity="common">VMN</set>
+			<set num="10" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Radiant Guide</name>
@@ -32297,7 +32297,7 @@ Fracture — Whenever this creature attacks or blocks, if you cast a noncreature
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="40" rarity="uncommon">VMN</set>
+			<set num="40" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Raze the Clanless</name>
@@ -32317,7 +32317,7 @@ Reformed Rift| Land
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="244" rarity="rare">VMN</set>
+			<set num="244" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Razorshell Drake</name>
@@ -32338,7 +32338,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="155" rarity="common">VMN</set>
+			<set num="155" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Rebuke the Foul</name>
@@ -32356,7 +32356,7 @@ Rebuke the Foul deals 3 damage to target creature if it's attacking or blocking.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="42" rarity="common">VMN</set>
+			<set num="42" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Remnant Awakener</name>
@@ -32376,7 +32376,7 @@ Fault|Basic Land — Fault
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="178" rarity="common">VMN</set>
+			<set num="178" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Repel the Invasion</name>
@@ -32393,7 +32393,7 @@ Fault|Basic Land — Fault
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="50" rarity="common">VMN</set>
+			<set num="50" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Resolute Watcher</name>
@@ -32411,7 +32411,7 @@ Fault|Basic Land — Fault
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="52" rarity="uncommon">VMN</set>
+			<set num="52" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Respite Partisan</name>
@@ -32429,7 +32429,7 @@ Fault|Basic Land — Fault
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="47" rarity="common">VMN</set>
+			<set num="47" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Restored Fault</name>
@@ -32448,7 +32448,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="324" rarity="mythic rare">VMN</set>
+			<set num="324" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Restored Forest</name>
@@ -32467,7 +32467,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="305" rarity="mythic rare">VMN</set>
+			<set num="305" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Restored Island</name>
@@ -32486,7 +32486,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="302" rarity="mythic rare">VMN</set>
+			<set num="302" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Restored Mountain</name>
@@ -32505,7 +32505,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="304" rarity="mythic rare">VMN</set>
+			<set num="304" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Restored Plains</name>
@@ -32524,7 +32524,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="299" rarity="mythic rare">VMN</set>
+			<set num="299" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Restored Swamp</name>
@@ -32543,7 +32543,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="303" rarity="mythic rare">VMN</set>
+			<set num="303" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Returned from Beyond</name>
@@ -32561,7 +32561,7 @@ Return target creature card from your graveyard to the battlefield.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="122" rarity="uncommon">VMN</set>
+			<set num="122" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Rift Burn</name>
@@ -32580,7 +32580,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="123" rarity="uncommon">VMN</set>
+			<set num="123" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Rift Tender</name>
@@ -32600,7 +32600,7 @@ Create a 1/1 black and white Cat enchantment creature token.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="60" rarity="common">VMN</set>
+			<set num="60" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Riftborn Flames</name>
@@ -32619,7 +32619,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="163" rarity="common">VMN</set>
+			<set num="163" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Rifttouched Ursine</name>
@@ -32638,7 +32638,7 @@ Creatures you control get +1/+1 if you've illuminated green.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="99" rarity="uncommon">VMN</set>
+			<set num="99" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Rip to Today</name>
@@ -32657,7 +32657,7 @@ Creatures you control get +1/+1 if you've illuminated green.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="306" rarity="mythic rare">VMN</set>
+			<set num="306" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Rip to Tomorrow</name>
@@ -32678,7 +32678,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="107" rarity="common">VMN</set>
+			<set num="107" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Rip to Yesterday</name>
@@ -32696,7 +32696,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="225" rarity="rare">VMN</set>
+			<set num="225" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Ripped into Eternity</name>
@@ -32716,7 +32716,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="98" rarity="common">VMN</set>
+			<set num="98" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Rippling Crustacean</name>
@@ -32736,7 +32736,7 @@ Fault|Basic Land — Fault
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="103" rarity="common">VMN</set>
+			<set num="103" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Roduth, God of Conflict</name>
@@ -32756,7 +32756,7 @@ Roduth and creature tokens you control enter the battlefield with a shield count
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="222" rarity="rare">VMN</set>
+			<set num="222" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Roduth's Guard</name>
@@ -32775,7 +32775,7 @@ When this creature enters, it deals damage equal to the number of creatures you 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="23" rarity="uncommon">VMN</set>
+			<set num="23" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Ruins of Multa</name>
@@ -32793,7 +32793,7 @@ Whenever you attack with two or more creatures, you may exile a creature card fr
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="210" rarity="rare">VMN</set>
+			<set num="210" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Ruins of Uth</name>
@@ -32812,7 +32812,7 @@ At the beginning of combat on each turn, you may untap another target enchantmen
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="220" rarity="rare">VMN</set>
+			<set num="220" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Runed Spire</name>
@@ -32831,7 +32831,7 @@ This land enters tapped. As this land enters, pay {1} or sacrifice this land.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="257" rarity="rare">VMN</set>
+			<set num="257" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Rush Down</name>
@@ -32850,7 +32850,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="9" rarity="common">VMN</set>
+			<set num="9" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Sage of Truths</name>
@@ -32871,7 +32871,7 @@ Scry 1, then draw a card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="134" rarity="common">VMN</set>
+			<set num="134" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Sage of the Aeons</name>
@@ -32890,7 +32890,7 @@ Scry 1, then draw a card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="132" rarity="uncommon">VMN</set>
+			<set num="132" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Scars of Oil</name>
@@ -32908,7 +32908,7 @@ The first time each turn you discard a card, you may mill two cards. If you do, 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="335" rarity="common">VMN</set>
+			<set num="335" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Scornful Pursuit</name>
@@ -32927,7 +32927,7 @@ Fracture —  At the beginning of your end step, if you cast a noncreature spell
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="64" rarity="uncommon">VMN</set>
+			<set num="64" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Scout's Bow</name>
@@ -32949,7 +32949,7 @@ Enchanted land has “{T}: Add one mana of any color.”</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="326" rarity="uncommon">VMN</set>
+			<set num="326" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Search For Wisdom</name>
@@ -32967,7 +32967,7 @@ Draw two cards. If you've illuminated blue, draw an additional card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="140" rarity="common">VMN</set>
+			<set num="140" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Shaman of Rites Lost</name>
@@ -32985,7 +32985,7 @@ Draw two cards. If you've illuminated blue, draw an additional card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="70" rarity="uncommon">VMN</set>
+			<set num="70" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Shimmering Path</name>
@@ -33004,7 +33004,7 @@ Draw two cards. If you've illuminated blue, draw an additional card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="311" rarity="mythic rare">VMN</set>
+			<set num="311" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Shining Idol</name>
@@ -33022,7 +33022,7 @@ Draw two cards. If you've illuminated blue, draw an additional card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="164" rarity="common">VMN</set>
+			<set num="164" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Shivta, Avlod Clanleader</name>
@@ -33041,7 +33041,7 @@ Fracture — At the beginning of combat on your turn, if you cast a noncreature 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="241" rarity="rare">VMN</set>
+			<set num="241" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Shroud Walkers</name>
@@ -33060,7 +33060,7 @@ Fracture — At the beginning of combat on your turn, if you cast a noncreature 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="115" rarity="uncommon">VMN</set>
+			<set num="115" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Skillful Blade</name>
@@ -33080,7 +33080,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to i
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="181" rarity="uncommon">VMN</set>
+			<set num="181" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Skywatch Entity</name>
@@ -33100,7 +33100,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="159" rarity="uncommon">VMN</set>
+			<set num="159" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Smoldering Entity</name>
@@ -33120,7 +33120,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="158" rarity="uncommon">VMN</set>
+			<set num="158" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Somma, Blade of Faloden Woods</name>
@@ -33139,7 +33139,7 @@ Fracture — At the beginning of your end step, if you cast a noncreature spell 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="239" rarity="rare">VMN</set>
+			<set num="239" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Soul Fire</name>
@@ -33156,7 +33156,7 @@ Fracture — At the beginning of your end step, if you cast a noncreature spell 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="15" rarity="uncommon">VMN</set>
+			<set num="15" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Spire of Hunger</name>
@@ -33175,7 +33175,7 @@ Fracture — At the beginning of your end step, if you cast a noncreature spell 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="310" rarity="mythic rare">VMN</set>
+			<set num="310" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Splendid Genesis</name>
@@ -33192,7 +33192,7 @@ Fracture — At the beginning of your end step, if you cast a noncreature spell 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="336" rarity="common">VMN</set>
+			<set num="336" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Splintered Island</name>
@@ -33211,7 +33211,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="300" rarity="mythic rare">VMN</set>
+			<set num="300" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Stalking Entity</name>
@@ -33230,7 +33230,7 @@ Materialize 1 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="79" rarity="common">VMN</set>
+			<set num="79" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Stalwart Guard</name>
@@ -33250,7 +33250,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="135" rarity="common">VMN</set>
+			<set num="135" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Stalwart Resolution</name>
@@ -33268,7 +33268,7 @@ Target creature you control gains double strike until end of turn. If you've ill
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="120" rarity="uncommon">VMN</set>
+			<set num="120" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Starbright Entity</name>
@@ -33287,7 +33287,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="104" rarity="common">VMN</set>
+			<set num="104" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Storm Bearer</name>
@@ -33308,7 +33308,7 @@ Scry 1, then draw a card.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="51" rarity="uncommon">VMN</set>
+			<set num="51" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Study the Rifts</name>
@@ -33326,7 +33326,7 @@ Scry 2, then draw two cards. If you've illuminated blue, scry 4, then draw two c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="125" rarity="uncommon">VMN</set>
+			<set num="125" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Sublime Liquidation</name>
@@ -33346,7 +33346,7 @@ As long as you've illuminated white or red, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="151" rarity="common">VMN</set>
+			<set num="151" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Suffused Memories</name>
@@ -33365,7 +33365,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="139" rarity="common">VMN</set>
+			<set num="139" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Sundered Swamp</name>
@@ -33384,7 +33384,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="308" rarity="mythic rare">VMN</set>
+			<set num="308" rarity="mythic rare">VNM</set>
 		</card>
 		<card>
 			<name>Survivor's Instinct</name>
@@ -33401,10 +33401,10 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="11" rarity="uncommon">VMN</set>
+			<set num="11" rarity="uncommon">VNM</set>
 		</card>
 		<card>
-			<name>Swamp_VMN</name>
+			<name>Swamp_VNM</name>
 			<text>({T}: Add {B})</text>
 			<prop>
 				<side>front</side>
@@ -33418,7 +33418,7 @@ This land enters tapped.
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="295" rarity="bonus">VMN</set>
+			<set num="295" rarity="bonus">VNM</set>
 		</card>
 		<card>
 			<name>Tattered Entity</name>
@@ -33438,7 +33438,7 @@ Materialize 6 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="182" rarity="uncommon">VMN</set>
+			<set num="182" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Tenuous Empowerment</name>
@@ -33457,7 +33457,7 @@ Fracture — At the beginning of combat on each turn, if you cast a noncreature 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="76" rarity="common">VMN</set>
+			<set num="76" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Tethers of Insanity</name>
@@ -33476,7 +33476,7 @@ Enchanted creature doesn't untap during its controller's untap step and has no a
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="313" rarity="common">VMN</set>
+			<set num="313" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Thargle</name>
@@ -33495,7 +33495,7 @@ At the beginning of each opponent's upkeep, that player loses 3 life unless they
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="223" rarity="rare">VMN</set>
+			<set num="223" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>The Great Tear</name>
@@ -33513,7 +33513,7 @@ At the beginning of each opponent's upkeep, that player loses 3 life unless they
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="215" rarity="rare">VMN</set>
+			<set num="215" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>The Wandering Cook</name>
@@ -33531,7 +33531,7 @@ At the beginning of each opponent's upkeep, that player loses 3 life unless they
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="217" rarity="rare">VMN</set>
+			<set num="217" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Tidepool Scuttler</name>
@@ -33550,7 +33550,7 @@ Whenever this creature deals combat damage to a player or noncreature, scry 2, t
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="111" rarity="uncommon">VMN</set>
+			<set num="111" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Tofnet Predator</name>
@@ -33569,7 +33569,7 @@ Whenever this creature deals combat damage to a player or noncreature, scry 2, t
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="177" rarity="uncommon">VMN</set>
+			<set num="177" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Tofnet Riftstalker</name>
@@ -33587,7 +33587,7 @@ Whenever this creature deals combat damage to a player or noncreature, scry 2, t
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="1" rarity="uncommon">VMN</set>
+			<set num="1" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Tofnet Thrummer</name>
@@ -33606,10 +33606,10 @@ Whenever this creature attacks, if you control three or more tokens, this creatu
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="315" rarity="uncommon">VMN</set>
+			<set num="315" rarity="uncommon">VNM</set>
 		</card>
 		<card>
-			<name>Torch_VMN</name>
+			<name>Torch_VNM</name>
 			<text>Luminous (For each color, if you control four or more permanents of that color, illuminate that color for the rest of the game.)
 Torch deals 2 damage to any target. If you've illuminated red, Torch deals 3 damage to that target instead.</text>
 			<prop>
@@ -33624,7 +33624,7 @@ Torch deals 2 damage to any target. If you've illuminated red, Torch deals 3 dam
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="88" rarity="uncommon">VMN</set>
+			<set num="88" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Towering Protector</name>
@@ -33643,7 +33643,7 @@ As long as this creature is equipped, enchanted, or has a counter on it, this cr
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="131" rarity="common">VMN</set>
+			<set num="131" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Transient Eternity</name>
@@ -33663,7 +33663,7 @@ As long as you've illuminated white or blue, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="142" rarity="common">VMN</set>
+			<set num="142" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Transitory Refuge</name>
@@ -33683,7 +33683,7 @@ As long as you've illuminated green or blue, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="149" rarity="common">VMN</set>
+			<set num="149" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Triumphant Entrance</name>
@@ -33702,7 +33702,7 @@ Whenever you attack with one or more tokens, you gain 1 life.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="165" rarity="common">VMN</set>
+			<set num="165" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Triumphant Riftcaller</name>
@@ -33723,7 +33723,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="100" rarity="uncommon">VMN</set>
+			<set num="100" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Trusted Companion</name>
@@ -33742,7 +33742,7 @@ Whenever this creature deals combat damage to a noncreature, put a +1/+1 counter
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="33" rarity="uncommon">VMN</set>
+			<set num="33" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Unexpected Discovery</name>
@@ -33760,7 +33760,7 @@ Exile the top two cards of your library. Until the end of your next turn, you ma
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="83" rarity="common">VMN</set>
+			<set num="83" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Unstable Rift</name>
@@ -33778,7 +33778,7 @@ Exile the top two cards of your library. Until the end of your next turn, you ma
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>0</tablerow>
-			<set num="309" rarity="uncommon">VMN</set>
+			<set num="309" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Untamed Drake</name>
@@ -33799,7 +33799,7 @@ If you've illuminated red or blue, creatures you control can attack as though th
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="5" rarity="uncommon">VMN</set>
+			<set num="5" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Urkial, Outlands Clanleader</name>
@@ -33819,7 +33819,7 @@ Creatures you control get +1/+1 for each color you've illuminated.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="242" rarity="rare">VMN</set>
+			<set num="242" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Usher of the Lost</name>
@@ -33839,7 +33839,7 @@ Materialize 3 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="185" rarity="uncommon">VMN</set>
+			<set num="185" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Vane, Verem-Volcano Scorcher</name>
@@ -33858,7 +33858,7 @@ Fracture — Once each turn, whenever you cast a noncreature spell, create a tok
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="238" rarity="rare">VMN</set>
+			<set num="238" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Vanishing Resolve</name>
@@ -33878,7 +33878,7 @@ As long as you've illuminated white or black, this creature gets +1/+1.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="147" rarity="common">VMN</set>
+			<set num="147" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Verem-Volcano Keeper</name>
@@ -33897,7 +33897,7 @@ Whenever a spell or ability targets this creature, its controller puts the top t
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="321" rarity="rare">VMN</set>
+			<set num="321" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Verem-Volcano Rumbler</name>
@@ -33917,7 +33917,7 @@ As long as you've illuminated red, creatures you control get +1/+0.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="78" rarity="common">VMN</set>
+			<set num="78" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Verem-Volcano Stalker</name>
@@ -33936,7 +33936,7 @@ Tap an untapped silver or red permanent you control: Until end of turn this crea
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="116" rarity="uncommon">VMN</set>
+			<set num="116" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Verem-Volcano Warrior</name>
@@ -33955,7 +33955,7 @@ When this creature enters, it deals damage equal to the number of red permanents
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="156" rarity="uncommon">VMN</set>
+			<set num="156" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Voidborn Entity</name>
@@ -33975,7 +33975,7 @@ Materialize 2 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="161" rarity="common">VMN</set>
+			<set num="161" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Volatile Visions</name>
@@ -33993,7 +33993,7 @@ Create a 1/1 red Wurm creature token with haste.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="338" rarity="common">VMN</set>
+			<set num="338" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Waking Words</name>
@@ -34012,7 +34012,7 @@ Fracture — At the beginning of your end step, if you cast a noncreature spell 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="61" rarity="common">VMN</set>
+			<set num="61" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Wandering Entity</name>
@@ -34031,7 +34031,7 @@ Materialize 1 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="109" rarity="common">VMN</set>
+			<set num="109" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Wandering Soul</name>
@@ -34049,7 +34049,7 @@ Materialize 1 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="36" rarity="common">VMN</set>
+			<set num="36" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Warden of the Lost</name>
@@ -34068,7 +34068,7 @@ When this creature enters, you may sacrifice a nonland permanent. If you do, dra
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="169" rarity="common">VMN</set>
+			<set num="169" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Warforged Herald</name>
@@ -34088,7 +34088,7 @@ Until end of turn, creatures you control get +1/+1 and can attack as though they
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="170" rarity="common">VMN</set>
+			<set num="170" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Waterspout</name>
@@ -34107,7 +34107,7 @@ When this enters, scry 2.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="179" rarity="common">VMN</set>
+			<set num="179" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Weavehorn Chimera</name>
@@ -34127,7 +34127,7 @@ This creature gets +2/+0 if you've illuminated silver.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="332" rarity="rare">VMN</set>
+			<set num="332" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Weight of Betrayal</name>
@@ -34146,7 +34146,7 @@ Enchanted creature gets -1/-1. If you've illuminated black, enchanted creature g
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="66" rarity="common">VMN</set>
+			<set num="66" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Wild Shimmer</name>
@@ -34166,7 +34166,7 @@ Materialize 4 (Tap one or more other enchantments you control with total mana va
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="254" rarity="rare">VMN</set>
+			<set num="254" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Will of Destruction</name>
@@ -34185,7 +34185,7 @@ Whenever you attack with two or more nontoken creatures, you may pay {U/R}{B}. I
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="214" rarity="rare">VMN</set>
+			<set num="214" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Will of Hunger</name>
@@ -34205,7 +34205,7 @@ Whenever you attack with two or more nontoken creatures, you may pay {2}. If you
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="221" rarity="rare">VMN</set>
+			<set num="221" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Will of Multaph</name>
@@ -34224,7 +34224,7 @@ Whenever you attack with two or more nontoken creatures, you may pay {1}{B}. If 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="213" rarity="rare">VMN</set>
+			<set num="213" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Will of Roduth</name>
@@ -34243,7 +34243,7 @@ Whenever you attack with two or more nontoken creatures, you may pay {1}{W}. If 
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="212" rarity="rare">VMN</set>
+			<set num="212" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>Windshaper Drake</name>
@@ -34264,7 +34264,7 @@ Tap target non-Aura enchantment. It also becomes a 3/3 creature in addition to i
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="124" rarity="common">VMN</set>
+			<set num="124" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Wings of New Horizons</name>
@@ -34285,7 +34285,7 @@ Create a trace of a basic land of any type into your hand.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="106" rarity="common">VMN</set>
+			<set num="106" rarity="common">VNM</set>
 		</card>
 		<card>
 			<name>Wipe the Wicked</name>
@@ -34303,7 +34303,7 @@ Create a trace of a basic land of any type into your hand.</text>
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>1</tablerow>
-			<set num="119" rarity="uncommon">VMN</set>
+			<set num="119" rarity="uncommon">VNM</set>
 		</card>
 		<card>
 			<name>Zoslera, Mordel Clanleader</name>
@@ -34324,7 +34324,7 @@ Whenever you cast a noncreature spell, choose one you haven't chosen this turn�
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>2</tablerow>
-			<set num="247" rarity="rare">VMN</set>
+			<set num="247" rarity="rare">VNM</set>
 		</card>
 		<card>
 			<name>xXDust420Xx</name>
@@ -34343,7 +34343,7 @@ Flashback {1}{B} (You may cast this card from your graveyard for its flashback c
 				<format-voyager>legal</format-voyager>
 			</prop>
 			<tablerow>3</tablerow>
-			<set num="327" rarity="masterpiece">VMN</set>
+			<set num="327" rarity="masterpiece">VNM</set>
 		</card>
 		<card>
 			<name>Abiogenesis</name>
